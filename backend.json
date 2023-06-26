@@ -109,5 +109,19 @@
     "title": "anakiklwsi suskeuwn - skoupa - june 2023",
     "platform": ["3D Cube"],
     "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_tilekontrol_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_tilekontrol.html",
+    "title": "anakiklwsi suskeuwn - tilekontrol - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_tileorasi_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_tileorasi.html",
+    "title": "anakiklwsi suskeuwn - tileorasi - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
   }
 ]
