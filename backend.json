@@ -67,5 +67,19 @@
     "title": "carroten",
     "platform": ["In Read Video"],
     "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/corona_3dbillboard_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/corona/corona_3d_billboard.html",
+    "title": "corona - summer promo june 2023",
+    "platform": ["3D Billboard"],
+    "id": 33
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/corona_3dcube_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/corona/corona_3dCube_june2023.html",
+    "title": "corona - summer promo june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
   }
 ]
