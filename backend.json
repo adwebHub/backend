@@ -62,13 +62,6 @@
     "id": 27
   },
   {
-    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/mamos_ifv_june2023.png",
-    "href": "https://canvas.adweb.gr/demo/mamos/footer_expand.html",
-    "title": "mamos regular - june 2023",
-    "platform": ["Footer Expand"],
-    "id": 9
-  },
-  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_compensation_june2023.png",
     "href": "https://canvas.adweb.gr/demo/hellasdirect/nextGen_compensation_June2023.html",
     "title": "hellas direct compensation - june 2023",
@@ -324,6 +317,13 @@
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/korres_footerExpand_alt_may2023.png",
     "href": "https://canvas.adweb.gr/demo/korres/custom_footer.html",
     "title": "korres greek yogurt - may 2023",
+    "platform": ["Footer Expand"],
+    "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/mamos_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/mamos/footer_expand.html",
+    "title": "mamos regular - may 2023",
     "platform": ["Footer Expand"],
     "id": 9
   }
