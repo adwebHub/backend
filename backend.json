@@ -238,7 +238,7 @@
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/bioten_inread_june2023.png",
-    "href": "https://canvas.adweb.gr/demo/sarantis/bioten_inread_gel.html",
+    "href": "https://canvas.adweb.gr/demo/sarantis/bioten_inread_micellar.html",
     "title": "sarantis bioten micellar water - june 2023",
     "platform": ["In Read Video"],
     "id": 32
@@ -352,6 +352,13 @@
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/korres_footerExpand_alt_may2023.png",
     "href": "https://canvas.adweb.gr/demo/korres/custom_footer.html",
     "title": "korres greek yogurt - may 2023",
+    "platform": ["Footer Expand"],
+    "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/tesori_footerExpand_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/sarantis/tesori_footer.html",
+    "title": "sarantis tesori d'oriente - may 2023",
     "platform": ["Footer Expand"],
     "id": 9
   },
