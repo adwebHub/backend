@@ -354,5 +354,12 @@
     "title": "mamos regular - may 2023",
     "platform": ["Footer Expand"],
     "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/piraeus_footerExpand_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/piraeus/footer_expand.html",
+    "title": "piraeus asfalistika programmata - may 2023",
+    "platform": ["Footer Expand"],
+    "id": 9
   }
 ]
