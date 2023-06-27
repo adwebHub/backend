@@ -412,10 +412,32 @@
     "id": 32
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/zagori/webover_selector.html",
+    "title": "zagori nero oloi isoi - may 2023",
+    "platform": ["Webover Selector"],
+    "id": 28
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/zagori/videoOverlay_may2023.html",
+    "title": "zagori nero oloi isoi - may 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/zagori/inread_may2023.html",
+    "title": "zagori nero oloi isoi - may 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/calvinklein_filmstrip_oct2022.png",
     "href": "https://canvas.adweb.gr/demo/calvinKlein/filmstrip_demo.html",
     "title": "calvin klein - oct 2022",
     "platform": ["Filmstrip"],
     "id": 31
   }
+
 ]
