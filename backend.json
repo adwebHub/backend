@@ -69,6 +69,20 @@
     "id": 25
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_wsv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/weboverVideoSelector_June2023.html",
+    "title": "hellas direct - june 2023",
+    "platform": ["Webover Video Selector"],
+    "id": 28
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_wvc_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/wallpapperVideoCarousel_June2023.html",
+    "title": "hellas direct garage - june 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/barathome_overlay_june2023.png",
     "href": "https://canvas.adweb.gr/demo/barathome/overlay_june2023.html",
     "title": "barathome - june 2023",
