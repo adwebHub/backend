@@ -459,5 +459,12 @@
     "title": "calvin klein - oct 2022",
     "platform": ["Filmstrip"],
     "id": 31
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_cExpandable_june2021.png",
+    "href": "https://canvas.adweb.gr/demo/vodafone/carouselExpandable_june2021.html",
+    "title": "vodafone secure net family - june 2021",
+    "platform": ["Carousel Expandable"],
+    "id": 6
   }
 ]
