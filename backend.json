@@ -505,8 +505,15 @@
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/nissan_inBannerVideo.png",
     "href": "https://canvas.adweb.gr/demo/nissan/inBannervVideo.html",
-    "title": "nissan leaf",
+    "title": "nissan innovation",
     "platform": ["In Banner Video"],
     "id": 14
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/chivas_inLineVideo.png",
+    "href": "https://canvas.adweb.gr/demo/pernodricard/inLineVideo.html",
+    "title": "pernod ricard chivas extra 13",
+    "platform": ["Inline Video"],
+    "id": 15
   }
 ]
