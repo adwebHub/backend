@@ -244,6 +244,13 @@
     "id": 32
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/velmar_nextGen_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/velmar/nextgen_1_june2023.html",
+    "title": "velmar stock center - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/pernodRicard_june2023.png",
     "href": "https://canvas.adweb.gr/demo/pernodricard/header_beefeater_june2023.html",
     "title": "pernod ricard - beefeater june 2023",
@@ -382,6 +389,13 @@
     "title": "piraeus asfalistika programmata - may 2023",
     "platform": ["Footer Expand"],
     "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/teza_inread_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/sarantis/teza_inread.html",
+    "title": "sarantis teza - may 2023",
+    "platform": ["In Read Video"],
+    "id": 32
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/calvinklein_filmstrip_oct2022.png",
