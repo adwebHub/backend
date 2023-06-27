@@ -1,4 +1,11 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hell_inread_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hell/inRead_june2023.html",
+    "title": "hell ice coffee - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_students_june2023.png",
     "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_students_june2023.html",
     "title": "knorr students - july 2023",
@@ -277,6 +284,13 @@
     "title": "ikea - shopping event 300x600 june 2023",
     "platform": ["Countdown Timer"],
     "id": 12
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ikea_timer_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/vodafone/vodafone_magazine.html",
+    "title": "ikea - shopping event 300x600 june 2023",
+    "platform": ["Countdown Timer"],
+    "id": 16
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/corona_3dcube_june2023.png",
