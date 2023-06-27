@@ -292,5 +292,12 @@
     "title": "frezyderm velvet - may 2023",
     "platform": ["Video Overlay"],
     "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/korres_footerExpand_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/korres/custom_footer.html",
+    "title": "korres greek yogurt - may 2023",
+    "platform": ["Footer Expand"],
+    "id": 9
   }
 ]
