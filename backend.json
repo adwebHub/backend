@@ -107,7 +107,7 @@
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_wsv_june2023.png",
     "href": "https://canvas.adweb.gr/demo/hellasdirect/weboverVideoSelector_June2023.html",
     "title": "hellas direct - june 2023",
-    "platform": ["Webover Video Selector"],
+    "platform": ["Webover Selector"],
     "id": 28
   },
   {
@@ -361,6 +361,13 @@
     "title": "sarantis tesori d'oriente - may 2023",
     "platform": ["Footer Expand"],
     "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/tesori_footerExpand_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/sarantis/tesori_selector.html",
+    "title": "sarantis tesori d'oriente - may 2023",
+    "platform": ["Webover Selector"],
+    "id": 28
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/mamos_ifv_june2023.png",
