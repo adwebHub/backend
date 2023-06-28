@@ -1,5 +1,40 @@
 [{
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/inread_mixed_june2023.html",
+    "title": "isomat chroma mixed - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/inread_neoZeugari_june2023.html",
+    "title": "isomat chroma neo zeugari - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/inread_senior_june2023.html",
+    "title": "isomat chroma senior - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/inread_mastoras_june2023.html",
+    "title": "isomat chroma mastoras - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/inread_ergenis_june2023.html",
+    "title": "isomat chroma ergenis - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
     "href": "https://canvas.adweb.gr/demo/isomat/interactiveFooter_june2023.html",
     "title": "isomat chroma - june 2023",
     "platform": ["Interactive Footer with Video"],
