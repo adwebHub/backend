@@ -538,11 +538,25 @@
     "id": 5
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/alphabank_conv_july2021.jpg",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-1711-2292-10961/433227b8fb6236030d90de72615255c7?w=320&h=600",
+    "title": "alpha bank bonus summer - july 2021",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_cExpandable_june2021.png",
     "href": "https://canvas.adweb.gr/demo/vodafone/carouselExpandable_june2021.html",
     "title": "vodafone secure net family - june 2021",
     "platform": ["Carousel Expandable"],
     "id": 6
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/schweppes_conv_feb2021.jpg",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-1234-1648-6497/b300d145d3ee29e0448e732ec7a6b1bd?w=300&h=600",
+    "title": "schweppes - january 2021",
+    "platform": ["Conversational Ads"],
+    "id": 5
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/cocacola_conv_jan2021.jpg",
