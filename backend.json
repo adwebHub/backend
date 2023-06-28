@@ -302,7 +302,7 @@
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/fischer_timer_may2023.png",
     "href": "https://canvas.adweb.gr/demo/fischer/header_timer.html",
-    "title": "fischer - summer cinemas may 2023",
+    "title": "fischer summer cinemas header - may 2023",
     "platform": ["Countdown Timer"],
     "id": 12
   },
@@ -480,6 +480,13 @@
     "title": "vodafone winter sales - january 2023",
     "platform": ["LookBook"],
     "id": 2
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/cosmote_conv_nov2022.png",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-3186-4284-23144/4097711abbb71d208ca7cb4a0cf539fa?w=300&h=600",
+    "title": "cosmote payzy - november 2022",
+    "platform": ["Conversational Ads"],
+    "id": 5
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/calvinklein_filmstrip_oct2022.png",
