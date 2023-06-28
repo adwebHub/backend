@@ -503,6 +503,13 @@
     "id": 31
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/elbsico_fpt_june2022.jpg",
+    "href": "https://canvas.adweb.gr/demo/elbisco/allatini_fpt_july2022.html",
+    "title": "elbisco allatini soft kings - july 2022",
+    "platform": ["Full Page Takeover"],
+    "id": 10
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_movex_june2022.png",
     "href": "https://canvas.adweb.gr/demo/vodafone/movex_june2022.html",
     "title": "vodafone disney plus - june 2022",
@@ -538,6 +545,13 @@
     "id": 5
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_conv_dec2020.jpg",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-1087-1446-5521/a1ad8a8745e059c404019319d698a249?w=300&h=600",
+    "title": "vodafone cu open - december 2021",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/alphabank_conv_july2021.jpg",
     "href": "https://cloud.cavai.com/creatives/iframe/431-1711-2292-10961/433227b8fb6236030d90de72615255c7?w=320&h=600",
     "title": "alpha bank bonus summer - july 2021",
@@ -562,13 +576,6 @@
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/cocacola_conv_jan2021.jpg",
     "href": "https://cloud.cavai.com/creatives/iframe/431-1141-1526-5853/f13de47f145c7cb1ed5bc1cf3cc82ba2?w=300&h=600",
     "title": "coca cola open to better - january 2021",
-    "platform": ["Conversational Ads"],
-    "id": 5
-  },
-  {
-    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_conv_dec2020.jpg",
-    "href": "https://cloud.cavai.com/creatives/iframe/431-1087-1446-5521/a1ad8a8745e059c404019319d698a249?w=300&h=600",
-    "title": "vodafone cu open - december 2021",
     "platform": ["Conversational Ads"],
     "id": 5
   },
