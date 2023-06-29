@@ -1,4 +1,12 @@
-[{
+[
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ab_billboardCarousel_july2023.png",
+        "href": "https://canvas.adweb.gr/demo/ab/billboardCarousel_july2023.html",
+        "title": "ab vasilopoulos shop & go - july 2023",
+        "platform": ["Billboard Carousel"],
+        "id": 3
+      }, 
+    {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
     "href": "https://canvas.adweb.gr/demo/isomat/nextGen_seniors_june2023.html",
     "title": "isomat chroma next gen neo senior - june 2023",
