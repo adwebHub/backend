@@ -1,5 +1,19 @@
 [
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/iekOmiros_3dCube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/iek_omiros/iekOmiros_3D_Cube_july2023.html",
+    "title": "iek omiros 3d cube 300x250 - july 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/aegeanCollege_3dCube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/aegean_college/aegeanCollege_3D_Cube_july2023.html",
+    "title": "aegean college 3d cube 300x250 - july 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/aim_headerVideo_july2023.png",
     "href": "https://canvas.adweb.gr/demo/AIM/AIM_headerVideo_july2023.html",
     "title": "aim white now - july 2023",
