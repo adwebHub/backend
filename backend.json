@@ -1,4 +1,26 @@
-[{
+[
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/fujitsu/fujitsu_cube_970x250_july2023.html",
+    "title": "fujitsu yearly 3d cube 970x250 - july 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/fujitsu/fujitsu_cube_300x600_july2023.html",
+    "title": "fujitsu yearly 3d cube 300x600 - july 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/fujitsu/fujitsu_cube_300x250_july2023.html",
+    "title": "fujitsu yearly 3d cube 300x250 - july 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/corona_timer_july2023.png",
     "href": "https://canvas.adweb.gr/demo/corona/timer_header_july2023.html",
     "title": "corona timer header - june 2023",
