@@ -1,6 +1,13 @@
 [
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/fujitsu/videoOverlay_july2023.html",
+    "title": "fujitsu yearly video overlay - july 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
     "href": "https://canvas.adweb.gr/demo/fujitsu/nextGen_july2023.html",
     "title": "fujitsu yearly next gen - july 2023",
     "platform": ["Next Gen Video"],
