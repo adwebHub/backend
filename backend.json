@@ -1,5 +1,12 @@
 [{
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/klinex_header_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/klinex/headerVideo_july2023_alt.html",
+    "title": "klinex masterbrand alternative - july 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/klinex_header_july2023.png",
     "href": "https://canvas.adweb.gr/demo/klinex/headerVideo_july2023.html",
     "title": "klinex masterbrand - july 2023",
     "platform": ["Header Responsive with Video"],
