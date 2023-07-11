@@ -1,4 +1,18 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/piraeus_winbank_july2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/piraeus/takeover_july2023.html",
+    "title": "piraeus winbank - july 2023",
+    "platform": ["Full Page Takeover"],
+    "id": 10
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/piraeus_winbank_july2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/piraeus/footer_video_july2023.html",
+    "title": "piraeus winbank - july 2023",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/klinex_header_july2023.png",
     "href": "https://canvas.adweb.gr/demo/klinex/headerVideo_july2023_alt.html",
     "title": "klinex masterbrand alternative - july 2023",
