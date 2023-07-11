@@ -1,4 +1,26 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/aegean_demo_2023.png",
+    "href": "https://canvas.adweb.gr/demo/aegean/nextGen_demo2023.html",
+    "title": "aegean gastronomics - demo 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/aegean_demo_2023.png",
+    "href": "https://canvas.adweb.gr/demo/aegean/videoMaxed_demo2023.html",
+    "title": "aegean gastronomics - demo 2023",
+    "platform": ["Video Maxed Carousel"],
+    "id": 22
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/aegean_demo_2023.png",
+    "href": "https://canvas.adweb.gr/demo/aegean/headerVideo_demo2023.html",
+    "title": "aegean gastronomics - demo 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/piraeus_winbank_july2023.jpg",
     "href": "https://canvas.adweb.gr/demo/piraeus/wallpaperCarousel_july2023.html",
     "title": "piraeus winbank - july 2023",
