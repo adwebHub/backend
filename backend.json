@@ -1,5 +1,21 @@
-[{
-    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/kotsovolos_timer_july2023.jpg ",
+[
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/ikea_timer_july2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/ikea/300x250_timer_july2023.html",
+        "title": "ikea shopping event 300x250 - july 2023",
+        "platform": ["Countdown Timer"],
+        "id": 12
+      },
+      {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/ikea_timer_july2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/ikea/300x600_timer_july2023.html",
+        "title": "ikea shopping event 300x600 - july 2023",
+        "platform": ["Countdown Timer"],
+        "id": 12
+      },
+
+    {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/kotsovolos_timer_july2023.jpg",
     "href": "https://canvas.adweb.gr/demo/kotsovolos/timer_300x600_demo2023.html",
     "title": "kotsovolos samsung galaxy unpacked - july 2023",
     "platform": ["Countdown Timer"],
