@@ -1,4 +1,19 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/tesori_ws_aug2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/sarantis/tesori_weboverSelector_Aug2023.html",
+    "title": "tesori d'oriente selector - august 2023",
+    "platform": ["Webover Selector"],
+    "id": 28
+  },
+
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/tesori_footer_aug2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/sarantis/tesori_interactiveFooter_Aug2023.html",
+    "title": "tesori d'oriente footer - august 2023",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/elpedison_demo_aug2023.jpg",
     "href": "https://canvas.adweb.gr/demo/elpedison/interactiveFooter_Aug2023.html",
     "title": "elpedison energopoio - august 2023",
@@ -713,20 +728,6 @@
     "title": "korres greek yogurt - may 2023",
     "platform": ["Footer Expand"],
     "id": 9
-  },
-  {
-    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/tesori_footerExpand_may2023.png",
-    "href": "https://canvas.adweb.gr/demo/sarantis/tesori_footer.html",
-    "title": "sarantis tesori d'oriente - may 2023",
-    "platform": ["Footer Expand"],
-    "id": 9
-  },
-  {
-    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/tesori_footerExpand_may2023.png",
-    "href": "https://canvas.adweb.gr/demo/sarantis/tesori_selector.html",
-    "title": "sarantis tesori d'oriente - may 2023",
-    "platform": ["Webover Selector"],
-    "id": 28
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/mamos_ifv_june2023.png",
