@@ -1,970 +1,977 @@
 [
-    {
-        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_300x250_timer_aug2023.jpg",
-        "href": "https://canvas.adweb.gr/demo/eko/timer_300x250_aug2023.html",
-        "title": "eko rally acropolis 300x250 - august 2023",
-        "platform": ["Countdown Timer"],
-        "id": 12
-      },
-      {
-        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_300x600_timer_aug2023.jpg",
-        "href": "https://canvas.adweb.gr/demo/eko/timer_300x600_aug2023.html",
-        "title": "eko rally acropolis 300x600 - august 2023",
-        "platform": ["Countdown Timer"],
-        "id": 12
-      },
-      {
-        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_970x250_timer_aug2023.jpg",
-        "href": "https://canvas.adweb.gr/demo/eko/timer_970x250_aug2023.html",
-        "title": "eko rally acropolis 970x250- august 2023",
-        "platform": ["Countdown Timer"],
-        "id": 12
-      },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/tmnt_wc_aug2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/giochiPreziosi/wallpaperCarousel_Aug2023.html",
-      "title": "giochi preziosi tmnt toys - august 2023",
-      "platform": ["Wallpaper Video Carousel"],
-      "id": 26
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/tesori_ws_aug2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/sarantis/tesori_weboverSelector_Aug2023.html",
-      "title": "tesori d'oriente selector - august 2023",
-      "platform": ["Webover Selector"],
-      "id": 28
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/tesori_footer_aug2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/sarantis/tesori_interactiveFooter_Aug2023.html",
-      "title": "tesori d'oriente footer - august 2023",
-      "platform": ["Interactive Footer with Video"],
-      "id": 27
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/elpedison_demo_aug2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/elpedison/interactiveFooter_Aug2023.html",
-      "title": "elpedison energopoio - august 2023",
-      "platform": ["Interactive Footer with Video"],
-      "id": 27
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/nymfi_demo_2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/nymfi/nextGen_2_demo2023.html",
-      "title": "nymfi next gen demo - july 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/durex_july2023-1.jpg",
-      "href": "https://cloud.cavai.com/creatives/iframe/431-3391-4709-26113/9d421d6fa6cbc30f8893350ad15358b6?w=300&h=600",
-      "title": "reckitt summer campaign durex - july 2023",
-      "platform": ["Conversational Ads"],
-      "id": 5
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/durex_july2023-1.jpg",
-      "href": "https://canvas.adweb.gr/demo/durex/wallpaperCarousel_july2023.html",
-      "title": "reckitt summer campaign durex - july 2023",
-      "platform": ["Wallpaper Video Carousel"],
-      "id": 26
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/durex_july2023-1.jpg",
-      "href": "https://canvas.adweb.gr/demo/durex/footerVideo_july2023_alt.html",
-      "title": "reckitt summer campaign durex - july 2023",
-      "platform": ["Interactive Footer with Video"],
-      "id": 27
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/ikea_timer_july2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/ikea/300x600_timer_july2023.html",
-      "title": "ikea shopping event 300x600 - july 2023",
-      "platform": ["Countdown Timer"],
-      "id": 12
-    },
-  
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/kotsovolos_timer_july2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/kotsovolos/timer_300x600_demo2023.html",
-      "title": "kotsovolos samsung galaxy unpacked - july 2023",
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/pepco_videoOverlay_aug2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/pepco/videoOverlay_aug2023.html",
+    "title": "pepco - aug 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_300x250_timer_aug2023.jpg",
+      "href": "https://canvas.adweb.gr/demo/eko/timer_300x250_aug2023.html",
+      "title": "eko rally acropolis 300x250 - august 2023",
       "platform": ["Countdown Timer"],
       "id": 12
     },
     {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/aegean_demo_2023.png",
-      "href": "https://canvas.adweb.gr/demo/aegean/nextGen_demo2023.html",
-      "title": "aegean gastronomics - demo 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/aegean_demo_2023.png",
-      "href": "https://canvas.adweb.gr/demo/aegean/videoMaxed_demo2023.html",
-      "title": "aegean gastronomics - demo 2023",
-      "platform": ["Video Maxed Carousel"],
-      "id": 22
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/aegean_demo_2023.png",
-      "href": "https://canvas.adweb.gr/demo/aegean/headerVideo_demo2023.html",
-      "title": "aegean gastronomics - demo 2023",
-      "platform": ["Header Responsive with Video"],
-      "id": 13
-    },
-  
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/piraeus_winbank_july2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/piraeus/wallpaperCarousel_july2023.html",
-      "title": "piraeus winbank - july 2023",
-      "platform": ["Wallpaper Video Carousel"],
-      "id": 26
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/piraeus_winbank_july2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/piraeus/footer_video_july2023.html",
-      "title": "piraeus winbank - july 2023",
-      "platform": ["Interactive Footer with Video"],
-      "id": 27
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/klinex_header_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/klinex/headerVideo_july2023_alt.html",
-      "title": "klinex masterbrand alternative - july 2023",
-      "platform": ["Header Responsive with Video"],
-      "id": 13
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/klinex_header_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/klinex/headerVideo_july2023.html",
-      "title": "klinex masterbrand - july 2023",
-      "platform": ["Header Responsive with Video"],
-      "id": 13
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/cosmote_headerVid_perivallon_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/cosmote/headerVideo_perivallon_july2023.html",
-      "title": "cosmote perivallon - july 2023",
-      "platform": ["Header Responsive with Video"],
-      "id": 13
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/fujitsu/videoOverlay_july2023.html",
-      "title": "fujitsu yearly video overlay - july 2023",
-      "platform": ["Video Overlay"],
-      "id": 25
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/fujitsu/nextGen_july2023.html",
-      "title": "fujitsu yearly next gen - july 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/fujitsu/fujitsu_cube_970x250_july2023.html",
-      "title": "fujitsu yearly 3d cube 970x250 - july 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/fujitsu/fujitsu_cube_300x600_july2023.html",
-      "title": "fujitsu yearly 3d cube 300x600 - july 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/fujitsu/fujitsu_cube_300x250_july2023.html",
-      "title": "fujitsu yearly 3d cube 300x250 - july 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/corona_timer_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/corona/timer_header_july2023.html",
-      "title": "corona timer header - june 2023",
+      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_300x600_timer_aug2023.jpg",
+      "href": "https://canvas.adweb.gr/demo/eko/timer_300x600_aug2023.html",
+      "title": "eko rally acropolis 300x600 - august 2023",
       "platform": ["Countdown Timer"],
       "id": 12
     },
     {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/corona_timer_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/corona/timer_300x600_july2023.html",
-      "title": "corona timer 300x600 - july 2023",
+      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_970x250_timer_aug2023.jpg",
+      "href": "https://canvas.adweb.gr/demo/eko/timer_970x250_aug2023.html",
+      "title": "eko rally acropolis 970x250- august 2023",
       "platform": ["Countdown Timer"],
       "id": 12
     },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/corona_timer_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/corona/timer_300x250_july2023.html",
-      "title": "corona timer 300x250 - july 2023",
-      "platform": ["Countdown Timer"],
-      "id": 12
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/voreia_inRead_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/voreia/inRead_demo_july2023.html",
-      "title": "voreia demo - july 2023",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/avra_fpt_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/avra/fullPageTakeover_july2023.html",
-      "title": "avra - july 2023",
-      "platform": ["Full Page Takeover"],
-      "id": 10
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/aegeanCollege_3dCube_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/aegean_college/nextGen_july2023.html",
-      "title": "aegean college next gen - july 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/iekOmiros_3dCube_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/iek_omiros/nextGen_july2023.html",
-      "title": "iek omiros next gen - july 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/amita_3d_bb_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/3ecocacola/amita_3d_billboard_july2023.html",
-      "title": "3e coca cola amita free - july 2023",
-      "platform": ["3D Billboard"],
-      "id": 33
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/durex_ifv_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/durex/durex_interactiveFooter_july2023.html",
-      "title": "reckitt summer campaign durex demo - july 2023",
-      "platform": ["Interactive Footer with Video"],
-      "id": 27
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/iekOmiros_3dCube_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/iek_omiros/iekOmiros_3D_Cube_july2023.html",
-      "title": "iek omiros 3d cube 300x250 - july 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/aegeanCollege_3dCube_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/aegean_college/aegeanCollege_3D_Cube_july2023.html",
-      "title": "aegean college 3d cube 300x250 - july 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/aim_headerVideo_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/AIM/AIM_headerVideo_july2023.html",
-      "title": "aim white now - july 2023",
-      "platform": ["Header Responsive with Video"],
-      "id": 13
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ab_billboardCarousel_july2023.png",
-      "href": "https://canvas.adweb.gr/demo/ab/billboardCarousel_july2023.html",
-      "title": "ab vasilopoulos shop & go - july 2023",
-      "platform": ["Billboard Carousel"],
-      "id": 3
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/isomat/nextGen_seniors_june2023.html",
-      "title": "isomat chroma next gen neo senior - june 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/isomat/nextGen_neoZeugari_june2023.html",
-      "title": "isomat chroma next gen neo zeugari - june 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/isomat/nextGen_mixed_june2023.html",
-      "title": "isomat chroma next gen mixed - june 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/isomat/nextGen_mastoras_june2023.html",
-      "title": "isomat chroma next gen mastoras - june 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/isomat/nextGen_ergenhs_june2023.html",
-      "title": "isomat chroma next gen ergenis - june 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_conv_june2023.png",
-      "href": "https://cloud.cavai.com/creatives/iframe/431-3387-4700-26098/0c2e2c46a1a34fae1b8d13cc75b3ba7a?w=300&h=600",
-      "title": "heineken 150y - june 2023",
-      "platform": ["Conversational Ads"],
-      "id": 5
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/feelgood_mImpossible_gallery_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/feelgood/missionImpossible_gallery_june2023.html",
-      "title": "feelgood mission impossible - june 2023",
-      "platform": ["Webover Image Gallery"],
-      "id": 34
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/isomat/inread_mixed_june2023.html",
-      "title": "isomat chroma mixed - june 2023",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/isomat/inread_neoZeugari_june2023.html",
-      "title": "isomat chroma neo zeugari - june 2023",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/isomat/inread_senior_june2023.html",
-      "title": "isomat chroma senior - june 2023",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/isomat/inread_mastoras_june2023.html",
-      "title": "isomat chroma mastoras - june 2023",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/isomat/inread_ergenis_june2023.html",
-      "title": "isomat chroma ergenis - june 2023",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/isomat/interactiveFooter_june2023.html",
-      "title": "isomat chroma - june 2023",
-      "platform": ["Interactive Footer with Video"],
-      "id": 27
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hell_inread_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/hell/inRead_june2023.html",
-      "title": "hell ice coffee - june 2023",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_students_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_students_june2023.html",
-      "title": "knorr students - july 2023",
-      "platform": ["Video Maxed Carousel"],
-      "id": 22
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_professionals_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_professionals_june2023.html",
-      "title": "knorr professionals - july 2023",
-      "platform": ["Video Maxed Carousel"],
-      "id": 22
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_generic_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_generic_june2023.html",
-      "title": "knorr generic - july 2023",
-      "platform": ["Video Maxed Carousel"],
-      "id": 22
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_gamers_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_gamers_june2023.html",
-      "title": "knorr gamers - july 2023",
-      "platform": ["Video Maxed Carousel"],
-      "id": 22
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_970x250_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/heineken/slider_970x250_June2023.html",
-      "title": "heineken 150y 970x250 - june 2023",
-      "platform": ["Slider"],
-      "id": 24
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_300x600_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/heineken/slider_300x600_June2023.html",
-      "title": "heineken 150y 300x600 - june 2023",
-      "platform": ["Slider"],
-      "id": 24
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_300x250_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/heineken/slider_300x250_June2023.html",
-      "title": "heineken 150y 300x250 - june 2023",
-      "platform": ["Slider"],
-      "id": 24
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_webover_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/heineken/slider_Webover_June2023.html",
-      "title": "heineken 150y webover - june 2023",
-      "platform": ["Slider"],
-      "id": 24
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/mamos_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/mamos/interactiveFooter_1_June2023.html",
-      "title": "mamos regular - june 2023",
-      "platform": ["Interactive Footer with Video"],
-      "id": 27
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_compensation_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/hellasdirect/nextGen_compensation_June2023.html",
-      "title": "hellas direct compensation - june 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_dayNight_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/hellasdirect/nextGen_disruption_June2023.html",
-      "title": "hellas direct disruption - june 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_garage_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/hellasdirect/nextGen_Garage_June2023.html",
-      "title": "hellas direct garage - june 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_compensation_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/hellasdirect/videoOverlay_Compensation_June2023.html",
-      "title": "hellas direct compensation - june 2023",
-      "platform": ["Video Overlay"],
-      "id": 25
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_dayNight_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/hellasdirect/videoOverlay_Disruption_June2023.html",
-      "title": "hellas direct disruption - june 2023",
-      "platform": ["Video Overlay"],
-      "id": 25
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_garage_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/hellasdirect/videoOverlay_Garage_June2023.html",
-      "title": "hellas direct garage - june 2023",
-      "platform": ["Video Overlay"],
-      "id": 25
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_wsv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/hellasdirect/weboverVideoSelector_June2023.html",
-      "title": "hellas direct - june 2023",
-      "platform": ["Webover Selector"],
-      "id": 28
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_wvc_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/hellasdirect/wallpapperVideoCarousel_June2023.html",
-      "title": "hellas direct garage - june 2023",
-      "platform": ["Wallpaper Video Carousel"],
-      "id": 26
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_wvc_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/hellasdirect/3dCube_300x600_June2023.html",
-      "title": "hellas direct 300x600 - june 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/barathome_overlay_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/barathome/overlay_june2023.html",
-      "title": "barathome - june 2023",
-      "platform": ["Overlay"],
-      "id": 29
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vikos_convads_june2023.png",
-      "href": "https://cloud.cavai.com/creatives/iframe/431-3386-4696-26092/ab200e0cac6a1cdceaf0da5f95dc15da?w=300&h=600",
-      "title": "vikos pink grapefruit - june 2023",
-      "platform": ["Conversational Ads"],
-      "id": 5
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/bmw_nextgen_june2023.png",
-      "href": "https://app.clipflip.video/embed/VZKKP3LYX8jfdheZg4ng/compare",
-      "title": "bmw i5 - june 2023",
-      "platform": ["Clipflip"],
-      "id": 30
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/kotsovolos_filmstrip_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/kotsovolos/kotsovolos_filmstrip_june2023.html",
-      "title": "kotsovolos mac does - june 2023",
-      "platform": ["Filmstrip"],
-      "id": 31
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/kotsovolos_wig_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/kotsovolos/kotsovolos_imageGallery_june2023.html",
-      "title": "kotsovolos days of play - june 2023",
-      "platform": ["Webover Image Gallery"],
-      "id": 34
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/deree_hVideo_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/alba/headerVideo_june2023.html",
-      "title": "deree - alba june 2023",
-      "platform": ["Header Responsive with Video"],
-      "id": 13
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/mitsubishi_headerVideo_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/mitsubishi/mitsubishi_header_video.html",
-      "title": "mitsubishi - electric air conditioning june 2023",
-      "platform": ["Header Responsive with Video"],
-      "id": 13
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/adams_fpt_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/adams/adams_full_page_takeover.html",
-      "title": "adam's - ipanema june 2023",
-      "platform": ["Full Page Takeover"],
-      "id": 10
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ab_scratch_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/ab/scratch_june2023.html",
-      "title": "ab vasilopoulos - kuhn rikon june 2023",
-      "platform": ["Interstitial Scratch"],
-      "id": 17
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/alpro_nextgen_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/alpro/alpro1.html",
-      "title": "alpro - not milk june 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/avis_wvc_june2023_astronaut.png",
-      "href": "https://canvas.adweb.gr/demo/avis/wallpaperVideoCarousel_astronaut.html",
-      "title": "avis - astronaut june 2023",
-      "platform": ["Wallpaper Video Carousel"],
-      "id": 26
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/avis_wvc_june2023_diver.png",
-      "href": "https://canvas.adweb.gr/demo/avis/wallpaperVideoCarousel_diver.html",
-      "title": "avis - diver june 2023",
-      "platform": ["Wallpaper Video Carousel"],
-      "id": 26
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/feelgood_wig_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/feelgood/transformers_gallery_alt.html",
-      "title": "feelgood - transformers june 2023",
-      "platform": ["Webover Image Gallery"],
-      "id": 34
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/carroten_inread.png",
-      "href": "https://canvas.adweb.gr/demo/carroten/carroten_inread_june2023.html",
-      "title": "carroten",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/corona_3dbillboard_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/corona/corona_3d_billboard.html",
-      "title": "corona - summer promo june 2023",
-      "platform": ["3D Billboard"],
-      "id": 33
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/olympos_footerExpand_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/olympos/olympos_footer.html",
-      "title": "olympos - ice tea contest june 2023",
-      "platform": ["Footer Expand"],
-      "id": 9
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/bio-oil_inread_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/sarantis/bio-oil_inread_june2023.html",
-      "title": "sarantis bio oil - june 2023",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/bioten_inread_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/sarantis/bioten_inread_micellar.html",
-      "title": "sarantis bioten micellar water - june 2023",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/velmar_nextGen_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/velmar/nextgen_1_june2023.html",
-      "title": "velmar stock center - june 2023",
-      "platform": ["Next Gen Video"],
-      "id": 19
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/pernodRicard_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/pernodricard/header_beefeater_june2023.html",
-      "title": "pernod ricard - beefeater june 2023",
-      "platform": ["Header Responsive with Video"],
-      "id": 13
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/pernodRicard_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/pernodricard/videoOverlay_beefeater_june2023.html",
-      "title": "pernod ricard - beefeater june 2023",
-      "platform": ["Video Overlay"],
-      "id": 25
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ikea_timer_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/ikea/300x250_timer_june2023.html",
-      "title": "ikea - shopping event 300x250 june 2023",
-      "platform": ["Countdown Timer"],
-      "id": 12
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ikea_timer_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/ikea/300x600_timer_june2023.html",
-      "title": "ikea - shopping event 300x600 june 2023",
-      "platform": ["Countdown Timer"],
-      "id": 12
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_magazine_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/vodafone/vodafone_magazine.html",
-      "title": "vodafone tv superheroes - june 2023",
-      "platform": ["Magazine"],
-      "id": 16
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/corona_3dcube_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/corona/corona_3dCube_june2023.html",
-      "title": "corona - summer promo june 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/fischer_timer_may2023.png",
-      "href": "https://canvas.adweb.gr/demo/fischer/header_timer.html",
-      "title": "fischer summer cinemas header - may 2023",
-      "platform": ["Countdown Timer"],
-      "id": 12
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_lampa_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_lampa.html",
-      "title": "anakiklwsi suskeuwn - lampa - june 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_laptop_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_laptop.html",
-      "title": "anakiklwsi suskeuwn - laptop - june 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_sesouar_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_sesouar.html",
-      "title": "anakiklwsi suskeuwn - sesouar - june 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_skoupa_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_skoupa.html",
-      "title": "anakiklwsi suskeuwn - skoupa - june 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_tilekontrol_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_tilekontrol.html",
-      "title": "anakiklwsi suskeuwn - tilekontrol - june 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_tileorasi_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_tileorasi.html",
-      "title": "anakiklwsi suskeuwn - tileorasi - june 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/froneri_clipflip_june2023.png",
-      "href": "https://app.clipflip.video/embed/Bw0muvJw51rretnk7KXF/compare",
-      "title": "froneri nuii - june 2023",
-      "platform": ["Clipflip"],
-      "id": 30
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/frezyderm_footerExpand_may2023.png",
-      "href": "https://canvas.adweb.gr/demo/frezyderm/footer_expand_full.html",
-      "title": "frezyderm sunscreen - may 2023",
-      "platform": ["Footer Expand"],
-      "id": 9
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/frezyderm_videoOverlay_seaside_may2023.png",
-      "href": "https://canvas.adweb.gr/demo/frezyderm/videoOverlay_SeaSide_june2023.html",
-      "title": "frezyderm seaside - may 2023",
-      "platform": ["Video Overlay"],
-      "id": 25
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/frezyderm_videoOverlay_velvet_may2023.png",
-      "href": "https://canvas.adweb.gr/demo/frezyderm/videoOverlay_velvet_june2023.html",
-      "title": "frezyderm velvet - may 2023",
-      "platform": ["Video Overlay"],
-      "id": 25
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/korres_footerExpand_alt_may2023.png",
-      "href": "https://canvas.adweb.gr/demo/korres/custom_footer.html",
-      "title": "korres greek yogurt - may 2023",
-      "platform": ["Footer Expand"],
-      "id": 9
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/mamos_ifv_june2023.png",
-      "href": "https://canvas.adweb.gr/demo/mamos/footer_expand.html",
-      "title": "mamos regular - may 2023",
-      "platform": ["Footer Expand"],
-      "id": 9
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/piraeus_footerExpand_may2023.png",
-      "href": "https://canvas.adweb.gr/demo/piraeus/footer_expand.html",
-      "title": "piraeus asfalistika programmata - may 2023",
-      "platform": ["Footer Expand"],
-      "id": 9
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/teza_inread_may2023.png",
-      "href": "https://canvas.adweb.gr/demo/sarantis/teza_inread.html",
-      "title": "sarantis teza - may 2023",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
-      "href": "https://canvas.adweb.gr/demo/zagori/webover_selector.html",
-      "title": "zagori nero oloi isoi - may 2023",
-      "platform": ["Webover Selector"],
-      "id": 28
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
-      "href": "https://canvas.adweb.gr/demo/zagori/videoOverlay_may2023.html",
-      "title": "zagori nero oloi isoi - may 2023",
-      "platform": ["Video Overlay"],
-      "id": 25
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
-      "href": "https://canvas.adweb.gr/demo/zagori/inread_may2023.html",
-      "title": "zagori nero oloi isoi - may 2023",
-      "platform": ["In Read Video"],
-      "id": 32
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/eko_cube_may2023.png",
-      "href": "https://canvas.adweb.gr/demo/eko/cube_300x600_may2023.html",
-      "title": "eko basket asia platforms - may 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/froneri_ws_apr2023.png",
-      "href": "https://canvas.adweb.gr/demo/froneri/nuii_weboverSelector_Apr2023.html",
-      "title": "froneri nuii - april 2023",
-      "platform": ["Webover Selector"],
-      "id": 28
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/davrados_header_feb2023.png",
-      "href": "https://canvas.adweb.gr/demo/davrados/header_feb2023.html",
-      "title": "davrados group general - february 2023",
-      "platform": ["Header"],
-      "id": 11
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/wasa_original_cube_feb2023.png",
-      "href": "https://canvas.adweb.gr/demo/barilla/cube_300x600_original.html",
-      "title": "wasa original - february 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/wasa_delikatess_cube_feb2023.png",
-      "href": "https://canvas.adweb.gr/demo/barilla/cube_300x600_delikatess.html",
-      "title": "wasa delikatess - february 2023",
-      "platform": ["3D Cube"],
-      "id": 1
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_conv_feb2023.png",
-      "href": "https://cloud.cavai.com/creatives/iframe/431-3332-4537-25097/d05f3f1b93735435e857f9ccad086fc2?w=300&h=600",
-      "title": "knorr snack pots - february 2023",
-      "platform": ["Conversational Ads"],
-      "id": 5
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_lookBook_jan2023.png",
-      "href": "https://canvas.adweb.gr/demo/vodafone/lookBook_jan2023.html",
-      "title": "vodafone winter sales - january 2023",
-      "platform": ["LookBook"],
-      "id": 2
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/cosmote_conv_nov2022.png",
-      "href": "https://cloud.cavai.com/creatives/iframe/431-3186-4284-23144/4097711abbb71d208ca7cb4a0cf539fa?w=300&h=600",
-      "title": "cosmote payzy - november 2022",
-      "platform": ["Conversational Ads"],
-      "id": 5
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/calvinklein_filmstrip_oct2022.png",
-      "href": "https://canvas.adweb.gr/demo/calvinKlein/filmstrip_demo.html",
-      "title": "calvin klein - october 2022",
-      "platform": ["Filmstrip"],
-      "id": 31
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/elbsico_fpt_june2022.jpg",
-      "href": "https://canvas.adweb.gr/demo/elbisco/allatini_fpt_july2022.html",
-      "title": "elbisco allatini soft kings - july 2022",
-      "platform": ["Full Page Takeover"],
-      "id": 10
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_movex_june2022.png",
-      "href": "https://canvas.adweb.gr/demo/vodafone/movex_june2022.html",
-      "title": "vodafone disney plus - june 2022",
-      "platform": ["Mobile Video Expandable (MOVEX)"],
-      "id": 18
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/nuii_retube_apr2022.png",
-      "href": "https://canvas.adweb.gr/demo/froneri/nuii_retube_apr2022.html",
-      "title": "froneri nuii summer 22' - june 2022",
-      "platform": ["Retube"],
-      "id": 20
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/lechuza_cExpandable_mar2022.jpg",
-      "href": "https://canvas.adweb.gr/demo/lechuza/cExpandable_march2022.html",
-      "title": "lechuza playmobil - march 2022",
-      "platform": ["Carousel Expandable"],
-      "id": 6
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/intersport_sidekick_jan2022.png",
-      "href": "https://canvas.adweb.gr/demo/intersport/sidekick_jan2022.html",
-      "title": "intersport winter sales - january 2022",
-      "platform": ["SideKick"],
-      "id": 21
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/nrg_conv_dec2021.png",
-      "href": "https://cloud.cavai.com/creatives/iframe/431-2223-2926-15136/2c890a249db90317527c763189ae38e1?w=300&h=600&m=build",
-      "title": "nrg all smart home - december 2021",
-      "platform": ["Conversational Ads"],
-      "id": 5
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_conv_dec2020.jpg",
-      "href": "https://cloud.cavai.com/creatives/iframe/431-1087-1446-5521/a1ad8a8745e059c404019319d698a249?w=300&h=600",
-      "title": "vodafone cu open - december 2021",
-      "platform": ["Conversational Ads"],
-      "id": 5
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/alphabank_conv_july2021.jpg",
-      "href": "https://cloud.cavai.com/creatives/iframe/431-1711-2292-10961/433227b8fb6236030d90de72615255c7?w=320&h=600",
-      "title": "alpha bank bonus summer - july 2021",
-      "platform": ["Conversational Ads"],
-      "id": 5
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_cExpandable_june2021.png",
-      "href": "https://canvas.adweb.gr/demo/vodafone/carouselExpandable_june2021.html",
-      "title": "vodafone secure net family - june 2021",
-      "platform": ["Carousel Expandable"],
-      "id": 6
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/schweppes_conv_feb2021.jpg",
-      "href": "https://cloud.cavai.com/creatives/iframe/431-1234-1648-6497/b300d145d3ee29e0448e732ec7a6b1bd?w=300&h=600",
-      "title": "schweppes - january 2021",
-      "platform": ["Conversational Ads"],
-      "id": 5
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/cocacola_conv_jan2021.jpg",
-      "href": "https://cloud.cavai.com/creatives/iframe/431-1141-1526-5853/f13de47f145c7cb1ed5bc1cf3cc82ba2?w=300&h=600",
-      "title": "coca cola open to better - january 2021",
-      "platform": ["Conversational Ads"],
-      "id": 5
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ab_cExpandable_sept2020.jpg",
-      "href": "https://canvas.adweb.gr/demo/ab/cExpandable_sept2020.html",
-      "title": "ab neoflam - september 2020",
-      "platform": ["Carousel Expandable"],
-      "id": 6
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ab_auraAshley.jpg",
-      "href": "https://canvas.adweb.gr/demo/ab/floorAd.html",
-      "title": "ab vasilopoulos laura ashley",
-      "platform": ["Floor Ad"],
-      "id": 8
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/nissan_inBannerVideo.png",
-      "href": "https://canvas.adweb.gr/demo/nissan/inBannervVideo.html",
-      "title": "nissan innovation",
-      "platform": ["In Banner Video"],
-      "id": 14
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/chivas_inLineVideo.png",
-      "href": "https://canvas.adweb.gr/demo/pernodricard/inLineVideo.html",
-      "title": "pernod ricard chivas extra 13",
-      "platform": ["Inline Video"],
-      "id": 15
-    }
-  ]
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/tmnt_wc_aug2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/giochiPreziosi/wallpaperCarousel_Aug2023.html",
+    "title": "giochi preziosi tmnt toys - august 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/tesori_ws_aug2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/sarantis/tesori_weboverSelector_Aug2023.html",
+    "title": "tesori d'oriente selector - august 2023",
+    "platform": ["Webover Selector"],
+    "id": 28
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/tesori_footer_aug2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/sarantis/tesori_interactiveFooter_Aug2023.html",
+    "title": "tesori d'oriente footer - august 2023",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/elpedison_demo_aug2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/elpedison/interactiveFooter_Aug2023.html",
+    "title": "elpedison energopoio - august 2023",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/nymfi_demo_2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/nymfi/nextGen_2_demo2023.html",
+    "title": "nymfi next gen demo - july 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/durex_july2023-1.jpg",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-3391-4709-26113/9d421d6fa6cbc30f8893350ad15358b6?w=300&h=600",
+    "title": "reckitt summer campaign durex - july 2023",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/durex_july2023-1.jpg",
+    "href": "https://canvas.adweb.gr/demo/durex/wallpaperCarousel_july2023.html",
+    "title": "reckitt summer campaign durex - july 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/durex_july2023-1.jpg",
+    "href": "https://canvas.adweb.gr/demo/durex/footerVideo_july2023_alt.html",
+    "title": "reckitt summer campaign durex - july 2023",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/ikea_timer_july2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/ikea/300x600_timer_july2023.html",
+    "title": "ikea shopping event 300x600 - july 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
+
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/kotsovolos_timer_july2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/kotsovolos/timer_300x600_demo2023.html",
+    "title": "kotsovolos samsung galaxy unpacked - july 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/aegean_demo_2023.png",
+    "href": "https://canvas.adweb.gr/demo/aegean/nextGen_demo2023.html",
+    "title": "aegean gastronomics - demo 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/aegean_demo_2023.png",
+    "href": "https://canvas.adweb.gr/demo/aegean/videoMaxed_demo2023.html",
+    "title": "aegean gastronomics - demo 2023",
+    "platform": ["Video Maxed Carousel"],
+    "id": 22
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/aegean_demo_2023.png",
+    "href": "https://canvas.adweb.gr/demo/aegean/headerVideo_demo2023.html",
+    "title": "aegean gastronomics - demo 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/piraeus_winbank_july2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/piraeus/wallpaperCarousel_july2023.html",
+    "title": "piraeus winbank - july 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/piraeus_winbank_july2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/piraeus/footer_video_july2023.html",
+    "title": "piraeus winbank - july 2023",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/klinex_header_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/klinex/headerVideo_july2023_alt.html",
+    "title": "klinex masterbrand alternative - july 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/klinex_header_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/klinex/headerVideo_july2023.html",
+    "title": "klinex masterbrand - july 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/cosmote_headerVid_perivallon_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/cosmote/headerVideo_perivallon_july2023.html",
+    "title": "cosmote perivallon - july 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/fujitsu/videoOverlay_july2023.html",
+    "title": "fujitsu yearly video overlay - july 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/fujitsu/nextGen_july2023.html",
+    "title": "fujitsu yearly next gen - july 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/fujitsu/fujitsu_cube_970x250_july2023.html",
+    "title": "fujitsu yearly 3d cube 970x250 - july 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/fujitsu/fujitsu_cube_300x600_july2023.html",
+    "title": "fujitsu yearly 3d cube 300x600 - july 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/fujitsu_cube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/fujitsu/fujitsu_cube_300x250_july2023.html",
+    "title": "fujitsu yearly 3d cube 300x250 - july 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/corona_timer_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/corona/timer_header_july2023.html",
+    "title": "corona timer header - june 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/corona_timer_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/corona/timer_300x600_july2023.html",
+    "title": "corona timer 300x600 - july 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/corona_timer_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/corona/timer_300x250_july2023.html",
+    "title": "corona timer 300x250 - july 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/voreia_inRead_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/voreia/inRead_demo_july2023.html",
+    "title": "voreia demo - july 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/avra_fpt_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/avra/fullPageTakeover_july2023.html",
+    "title": "avra - july 2023",
+    "platform": ["Full Page Takeover"],
+    "id": 10
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/aegeanCollege_3dCube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/aegean_college/nextGen_july2023.html",
+    "title": "aegean college next gen - july 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/iekOmiros_3dCube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/iek_omiros/nextGen_july2023.html",
+    "title": "iek omiros next gen - july 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/amita_3d_bb_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/3ecocacola/amita_3d_billboard_july2023.html",
+    "title": "3e coca cola amita free - july 2023",
+    "platform": ["3D Billboard"],
+    "id": 33
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/durex_ifv_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/durex/durex_interactiveFooter_july2023.html",
+    "title": "reckitt summer campaign durex demo - july 2023",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/iekOmiros_3dCube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/iek_omiros/iekOmiros_3D_Cube_july2023.html",
+    "title": "iek omiros 3d cube 300x250 - july 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/aegeanCollege_3dCube_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/aegean_college/aegeanCollege_3D_Cube_july2023.html",
+    "title": "aegean college 3d cube 300x250 - july 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/aim_headerVideo_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/AIM/AIM_headerVideo_july2023.html",
+    "title": "aim white now - july 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ab_billboardCarousel_july2023.png",
+    "href": "https://canvas.adweb.gr/demo/ab/billboardCarousel_july2023.html",
+    "title": "ab vasilopoulos shop & go - july 2023",
+    "platform": ["Billboard Carousel"],
+    "id": 3
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/nextGen_seniors_june2023.html",
+    "title": "isomat chroma next gen neo senior - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/nextGen_neoZeugari_june2023.html",
+    "title": "isomat chroma next gen neo zeugari - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/nextGen_mixed_june2023.html",
+    "title": "isomat chroma next gen mixed - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/nextGen_mastoras_june2023.html",
+    "title": "isomat chroma next gen mastoras - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/nextGen_ergenhs_june2023.html",
+    "title": "isomat chroma next gen ergenis - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_conv_june2023.png",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-3387-4700-26098/0c2e2c46a1a34fae1b8d13cc75b3ba7a?w=300&h=600",
+    "title": "heineken 150y - june 2023",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/feelgood_mImpossible_gallery_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/feelgood/missionImpossible_gallery_june2023.html",
+    "title": "feelgood mission impossible - june 2023",
+    "platform": ["Webover Image Gallery"],
+    "id": 34
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/inread_mixed_june2023.html",
+    "title": "isomat chroma mixed - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/inread_neoZeugari_june2023.html",
+    "title": "isomat chroma neo zeugari - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/inread_senior_june2023.html",
+    "title": "isomat chroma senior - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/inread_mastoras_june2023.html",
+    "title": "isomat chroma mastoras - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/inread_ergenis_june2023.html",
+    "title": "isomat chroma ergenis - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/isomat_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/isomat/interactiveFooter_june2023.html",
+    "title": "isomat chroma - june 2023",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hell_inread_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hell/inRead_june2023.html",
+    "title": "hell ice coffee - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_students_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_students_june2023.html",
+    "title": "knorr students - july 2023",
+    "platform": ["Video Maxed Carousel"],
+    "id": 22
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_professionals_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_professionals_june2023.html",
+    "title": "knorr professionals - july 2023",
+    "platform": ["Video Maxed Carousel"],
+    "id": 22
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_generic_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_generic_june2023.html",
+    "title": "knorr generic - july 2023",
+    "platform": ["Video Maxed Carousel"],
+    "id": 22
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_vmc_gamers_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/knorr/maxedCarousel_gamers_june2023.html",
+    "title": "knorr gamers - july 2023",
+    "platform": ["Video Maxed Carousel"],
+    "id": 22
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_970x250_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/heineken/slider_970x250_June2023.html",
+    "title": "heineken 150y 970x250 - june 2023",
+    "platform": ["Slider"],
+    "id": 24
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_300x600_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/heineken/slider_300x600_June2023.html",
+    "title": "heineken 150y 300x600 - june 2023",
+    "platform": ["Slider"],
+    "id": 24
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_300x250_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/heineken/slider_300x250_June2023.html",
+    "title": "heineken 150y 300x250 - june 2023",
+    "platform": ["Slider"],
+    "id": 24
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/heineken_slider_webover_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/heineken/slider_Webover_June2023.html",
+    "title": "heineken 150y webover - june 2023",
+    "platform": ["Slider"],
+    "id": 24
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/mamos_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/mamos/interactiveFooter_1_June2023.html",
+    "title": "mamos regular - june 2023",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_compensation_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/nextGen_compensation_June2023.html",
+    "title": "hellas direct compensation - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_dayNight_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/nextGen_disruption_June2023.html",
+    "title": "hellas direct disruption - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_garage_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/nextGen_Garage_June2023.html",
+    "title": "hellas direct garage - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_compensation_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/videoOverlay_Compensation_June2023.html",
+    "title": "hellas direct compensation - june 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_dayNight_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/videoOverlay_Disruption_June2023.html",
+    "title": "hellas direct disruption - june 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_nextgen_garage_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/videoOverlay_Garage_June2023.html",
+    "title": "hellas direct garage - june 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_wsv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/weboverVideoSelector_June2023.html",
+    "title": "hellas direct - june 2023",
+    "platform": ["Webover Selector"],
+    "id": 28
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_wvc_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/wallpapperVideoCarousel_June2023.html",
+    "title": "hellas direct garage - june 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/hellasdirect_wvc_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/hellasdirect/3dCube_300x600_June2023.html",
+    "title": "hellas direct 300x600 - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/barathome_overlay_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/barathome/overlay_june2023.html",
+    "title": "barathome - june 2023",
+    "platform": ["Overlay"],
+    "id": 29
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vikos_convads_june2023.png",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-3386-4696-26092/ab200e0cac6a1cdceaf0da5f95dc15da?w=300&h=600",
+    "title": "vikos pink grapefruit - june 2023",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/bmw_nextgen_june2023.png",
+    "href": "https://app.clipflip.video/embed/VZKKP3LYX8jfdheZg4ng/compare",
+    "title": "bmw i5 - june 2023",
+    "platform": ["Clipflip"],
+    "id": 30
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/kotsovolos_filmstrip_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/kotsovolos/kotsovolos_filmstrip_june2023.html",
+    "title": "kotsovolos mac does - june 2023",
+    "platform": ["Filmstrip"],
+    "id": 31
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/kotsovolos_wig_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/kotsovolos/kotsovolos_imageGallery_june2023.html",
+    "title": "kotsovolos days of play - june 2023",
+    "platform": ["Webover Image Gallery"],
+    "id": 34
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/deree_hVideo_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/alba/headerVideo_june2023.html",
+    "title": "deree - alba june 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/mitsubishi_headerVideo_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/mitsubishi/mitsubishi_header_video.html",
+    "title": "mitsubishi - electric air conditioning june 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/adams_fpt_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/adams/adams_full_page_takeover.html",
+    "title": "adam's - ipanema june 2023",
+    "platform": ["Full Page Takeover"],
+    "id": 10
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ab_scratch_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/ab/scratch_june2023.html",
+    "title": "ab vasilopoulos - kuhn rikon june 2023",
+    "platform": ["Interstitial Scratch"],
+    "id": 17
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/alpro_nextgen_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/alpro/alpro1.html",
+    "title": "alpro - not milk june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/avis_wvc_june2023_astronaut.png",
+    "href": "https://canvas.adweb.gr/demo/avis/wallpaperVideoCarousel_astronaut.html",
+    "title": "avis - astronaut june 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/avis_wvc_june2023_diver.png",
+    "href": "https://canvas.adweb.gr/demo/avis/wallpaperVideoCarousel_diver.html",
+    "title": "avis - diver june 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/feelgood_wig_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/feelgood/transformers_gallery_alt.html",
+    "title": "feelgood - transformers june 2023",
+    "platform": ["Webover Image Gallery"],
+    "id": 34
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/carroten_inread.png",
+    "href": "https://canvas.adweb.gr/demo/carroten/carroten_inread_june2023.html",
+    "title": "carroten",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/corona_3dbillboard_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/corona/corona_3d_billboard.html",
+    "title": "corona - summer promo june 2023",
+    "platform": ["3D Billboard"],
+    "id": 33
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/olympos_footerExpand_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/olympos/olympos_footer.html",
+    "title": "olympos - ice tea contest june 2023",
+    "platform": ["Footer Expand"],
+    "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/bio-oil_inread_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/sarantis/bio-oil_inread_june2023.html",
+    "title": "sarantis bio oil - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/bioten_inread_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/sarantis/bioten_inread_micellar.html",
+    "title": "sarantis bioten micellar water - june 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/velmar_nextGen_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/velmar/nextgen_1_june2023.html",
+    "title": "velmar stock center - june 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/pernodRicard_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/pernodricard/header_beefeater_june2023.html",
+    "title": "pernod ricard - beefeater june 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/pernodRicard_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/pernodricard/videoOverlay_beefeater_june2023.html",
+    "title": "pernod ricard - beefeater june 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ikea_timer_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/ikea/300x250_timer_june2023.html",
+    "title": "ikea - shopping event 300x250 june 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ikea_timer_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/ikea/300x600_timer_june2023.html",
+    "title": "ikea - shopping event 300x600 june 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_magazine_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/vodafone/vodafone_magazine.html",
+    "title": "vodafone tv superheroes - june 2023",
+    "platform": ["Magazine"],
+    "id": 16
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/corona_3dcube_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/corona/corona_3dCube_june2023.html",
+    "title": "corona - summer promo june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/fischer_timer_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/fischer/header_timer.html",
+    "title": "fischer summer cinemas header - may 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_lampa_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_lampa.html",
+    "title": "anakiklwsi suskeuwn - lampa - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_laptop_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_laptop.html",
+    "title": "anakiklwsi suskeuwn - laptop - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_sesouar_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_sesouar.html",
+    "title": "anakiklwsi suskeuwn - sesouar - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_skoupa_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_skoupa.html",
+    "title": "anakiklwsi suskeuwn - skoupa - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_tilekontrol_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_tilekontrol.html",
+    "title": "anakiklwsi suskeuwn - tilekontrol - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/anakiklosi_3dcube_tileorasi_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/electrocycle/3dcube_tileorasi.html",
+    "title": "anakiklwsi suskeuwn - tileorasi - june 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/froneri_clipflip_june2023.png",
+    "href": "https://app.clipflip.video/embed/Bw0muvJw51rretnk7KXF/compare",
+    "title": "froneri nuii - june 2023",
+    "platform": ["Clipflip"],
+    "id": 30
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/frezyderm_footerExpand_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/frezyderm/footer_expand_full.html",
+    "title": "frezyderm sunscreen - may 2023",
+    "platform": ["Footer Expand"],
+    "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/frezyderm_videoOverlay_seaside_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/frezyderm/videoOverlay_SeaSide_june2023.html",
+    "title": "frezyderm seaside - may 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/frezyderm_videoOverlay_velvet_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/frezyderm/videoOverlay_velvet_june2023.html",
+    "title": "frezyderm velvet - may 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/korres_footerExpand_alt_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/korres/custom_footer.html",
+    "title": "korres greek yogurt - may 2023",
+    "platform": ["Footer Expand"],
+    "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/mamos_ifv_june2023.png",
+    "href": "https://canvas.adweb.gr/demo/mamos/footer_expand.html",
+    "title": "mamos regular - may 2023",
+    "platform": ["Footer Expand"],
+    "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/piraeus_footerExpand_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/piraeus/footer_expand.html",
+    "title": "piraeus asfalistika programmata - may 2023",
+    "platform": ["Footer Expand"],
+    "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/teza_inread_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/sarantis/teza_inread.html",
+    "title": "sarantis teza - may 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/zagori/webover_selector.html",
+    "title": "zagori nero oloi isoi - may 2023",
+    "platform": ["Webover Selector"],
+    "id": 28
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/zagori/videoOverlay_may2023.html",
+    "title": "zagori nero oloi isoi - may 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/zagori_inread_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/zagori/inread_may2023.html",
+    "title": "zagori nero oloi isoi - may 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/eko_cube_may2023.png",
+    "href": "https://canvas.adweb.gr/demo/eko/cube_300x600_may2023.html",
+    "title": "eko basket asia platforms - may 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/froneri_ws_apr2023.png",
+    "href": "https://canvas.adweb.gr/demo/froneri/nuii_weboverSelector_Apr2023.html",
+    "title": "froneri nuii - april 2023",
+    "platform": ["Webover Selector"],
+    "id": 28
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/davrados_header_feb2023.png",
+    "href": "https://canvas.adweb.gr/demo/davrados/header_feb2023.html",
+    "title": "davrados group general - february 2023",
+    "platform": ["Header"],
+    "id": 11
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/wasa_original_cube_feb2023.png",
+    "href": "https://canvas.adweb.gr/demo/barilla/cube_300x600_original.html",
+    "title": "wasa original - february 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/wasa_delikatess_cube_feb2023.png",
+    "href": "https://canvas.adweb.gr/demo/barilla/cube_300x600_delikatess.html",
+    "title": "wasa delikatess - february 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_conv_feb2023.png",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-3332-4537-25097/d05f3f1b93735435e857f9ccad086fc2?w=300&h=600",
+    "title": "knorr snack pots - february 2023",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_lookBook_jan2023.png",
+    "href": "https://canvas.adweb.gr/demo/vodafone/lookBook_jan2023.html",
+    "title": "vodafone winter sales - january 2023",
+    "platform": ["LookBook"],
+    "id": 2
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/cosmote_conv_nov2022.png",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-3186-4284-23144/4097711abbb71d208ca7cb4a0cf539fa?w=300&h=600",
+    "title": "cosmote payzy - november 2022",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/calvinklein_filmstrip_oct2022.png",
+    "href": "https://canvas.adweb.gr/demo/calvinKlein/filmstrip_demo.html",
+    "title": "calvin klein - october 2022",
+    "platform": ["Filmstrip"],
+    "id": 31
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/elbsico_fpt_june2022.jpg",
+    "href": "https://canvas.adweb.gr/demo/elbisco/allatini_fpt_july2022.html",
+    "title": "elbisco allatini soft kings - july 2022",
+    "platform": ["Full Page Takeover"],
+    "id": 10
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_movex_june2022.png",
+    "href": "https://canvas.adweb.gr/demo/vodafone/movex_june2022.html",
+    "title": "vodafone disney plus - june 2022",
+    "platform": ["Mobile Video Expandable (MOVEX)"],
+    "id": 18
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/nuii_retube_apr2022.png",
+    "href": "https://canvas.adweb.gr/demo/froneri/nuii_retube_apr2022.html",
+    "title": "froneri nuii summer 22' - june 2022",
+    "platform": ["Retube"],
+    "id": 20
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/lechuza_cExpandable_mar2022.jpg",
+    "href": "https://canvas.adweb.gr/demo/lechuza/cExpandable_march2022.html",
+    "title": "lechuza playmobil - march 2022",
+    "platform": ["Carousel Expandable"],
+    "id": 6
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/intersport_sidekick_jan2022.png",
+    "href": "https://canvas.adweb.gr/demo/intersport/sidekick_jan2022.html",
+    "title": "intersport winter sales - january 2022",
+    "platform": ["SideKick"],
+    "id": 21
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/nrg_conv_dec2021.png",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-2223-2926-15136/2c890a249db90317527c763189ae38e1?w=300&h=600&m=build",
+    "title": "nrg all smart home - december 2021",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_conv_dec2020.jpg",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-1087-1446-5521/a1ad8a8745e059c404019319d698a249?w=300&h=600",
+    "title": "vodafone cu open - december 2021",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/alphabank_conv_july2021.jpg",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-1711-2292-10961/433227b8fb6236030d90de72615255c7?w=320&h=600",
+    "title": "alpha bank bonus summer - july 2021",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/vodafone_cExpandable_june2021.png",
+    "href": "https://canvas.adweb.gr/demo/vodafone/carouselExpandable_june2021.html",
+    "title": "vodafone secure net family - june 2021",
+    "platform": ["Carousel Expandable"],
+    "id": 6
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/schweppes_conv_feb2021.jpg",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-1234-1648-6497/b300d145d3ee29e0448e732ec7a6b1bd?w=300&h=600",
+    "title": "schweppes - january 2021",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/cocacola_conv_jan2021.jpg",
+    "href": "https://cloud.cavai.com/creatives/iframe/431-1141-1526-5853/f13de47f145c7cb1ed5bc1cf3cc82ba2?w=300&h=600",
+    "title": "coca cola open to better - january 2021",
+    "platform": ["Conversational Ads"],
+    "id": 5
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ab_cExpandable_sept2020.jpg",
+    "href": "https://canvas.adweb.gr/demo/ab/cExpandable_sept2020.html",
+    "title": "ab neoflam - september 2020",
+    "platform": ["Carousel Expandable"],
+    "id": 6
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ab_auraAshley.jpg",
+    "href": "https://canvas.adweb.gr/demo/ab/floorAd.html",
+    "title": "ab vasilopoulos laura ashley",
+    "platform": ["Floor Ad"],
+    "id": 8
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/nissan_inBannerVideo.png",
+    "href": "https://canvas.adweb.gr/demo/nissan/inBannervVideo.html",
+    "title": "nissan innovation",
+    "platform": ["In Banner Video"],
+    "id": 14
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/chivas_inLineVideo.png",
+    "href": "https://canvas.adweb.gr/demo/pernodricard/inLineVideo.html",
+    "title": "pernod ricard chivas extra 13",
+    "platform": ["Inline Video"],
+    "id": 15
+  }
+]
