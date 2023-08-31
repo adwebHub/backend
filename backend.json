@@ -1,5 +1,19 @@
 [
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/gsk_21s_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/gsk/inRead_21s_sept2023.html",
+    "title": "gsk menb campaign 21s - sept 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/gsk_41s_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/gsk/inRead_41s_sept2023.html",
+    "title": "gsk menb campaign 41s - sept 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/pepco_videoOverlay_aug2023.jpg",
     "href": "https://canvas.adweb.gr/demo/pepco/videoOverlay_aug2023.html",
     "title": "pepco - aug 2023",
