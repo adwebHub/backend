@@ -1,5 +1,19 @@
 [
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/eurobank_header_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/eurobank/header_2_sept2023.html",
+    "title": "eurobank x masoutis 2 - september 2023",
+    "platform": ["Header"],
+    "id": 11
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/eurobank_header_2_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/eurobank/header_1_sept2023.html",
+    "title": "eurobank x masoutis 1 - september 2023",
+    "platform": ["Header"],
+    "id": 11
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/gsk_21s_sept2023.jpg",
     "href": "https://canvas.adweb.gr/demo/gsk/inRead_21s_sept2023.html",
     "title": "gsk menb campaign 21s - sept 2023",
