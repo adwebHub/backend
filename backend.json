@@ -1,4 +1,17 @@
-[
+[{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/skyExpress_imageGallery_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/skyExpress/imageGallery_sept2023.html",
+    "title": "sky express promo - september 2023",
+    "platform": ["Webover Image Gallery"],
+    "id": 34
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/skyExpress_videoOverlay_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/skyExpress/videoOverlay_Sept2023.html",
+    "title": "sky express promo - september 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/eurobank_header_sept2023.jpg",
     "href": "https://canvas.adweb.gr/demo/eurobank/header_2_sept2023.html",
@@ -35,26 +48,26 @@
     "id": 25
   },
   {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_300x250_timer_aug2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/eko/timer_300x250_aug2023.html",
-      "title": "eko rally acropolis 300x250 - august 2023",
-      "platform": ["Countdown Timer"],
-      "id": 12
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_300x600_timer_aug2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/eko/timer_300x600_aug2023.html",
-      "title": "eko rally acropolis 300x600 - august 2023",
-      "platform": ["Countdown Timer"],
-      "id": 12
-    },
-    {
-      "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_970x250_timer_aug2023.jpg",
-      "href": "https://canvas.adweb.gr/demo/eko/timer_970x250_aug2023.html",
-      "title": "eko rally acropolis 970x250- august 2023",
-      "platform": ["Countdown Timer"],
-      "id": 12
-    },
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_300x250_timer_aug2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/eko/timer_300x250_aug2023.html",
+    "title": "eko rally acropolis 300x250 - august 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_300x600_timer_aug2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/eko/timer_300x600_aug2023.html",
+    "title": "eko rally acropolis 300x600 - august 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/eko_970x250_timer_aug2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/eko/timer_970x250_aug2023.html",
+    "title": "eko rally acropolis 970x250- august 2023",
+    "platform": ["Countdown Timer"],
+    "id": 12
+  },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/08/tmnt_wc_aug2023.jpg",
     "href": "https://canvas.adweb.gr/demo/giochiPreziosi/wallpaperCarousel_Aug2023.html",
