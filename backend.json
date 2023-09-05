@@ -1,4 +1,18 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/disney_overlay_sept2023_alt.jpg",
+    "href": "https://canvas.adweb.gr/demo/disney/overlay_Sept2023_alt.html",
+    "title": "disney+ promo alt - september",
+    "platform": ["Overlay"],
+    "id": 29
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/disney_poverlay_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/disney/overlay_Sept2023.html",
+    "title": "disney+ promo - september 2023",
+    "platform": ["Overlay"],
+    "id": 29
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/skyExpress_imageGallery_sept2023.jpg",
     "href": "https://canvas.adweb.gr/demo/skyExpress/imageGallery_sept2023.html",
     "title": "sky express promo - september 2023",
