@@ -1,4 +1,39 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/sprite_footer_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/3ecocacola/sprite_footer1_Sept2023.html",
+    "title": "sprite promo - september 2023",
+    "platform": ["Interactive Footer with Video"],
+    "id": 27
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/sprite_scratch_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/3ecocacola/sprite_scratch_Sept2023.html",
+    "title": "sprite promo - september 2023",
+    "platform": ["Interstitial Scratch"],
+    "id": 17
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/sprite_overlay_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/3ecocacola/sprite_videoOverlay_Sept2023.html",
+    "title": "sprite promo - september 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/kylieCosmetics_inRead_1_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/sarantis/kylieCosmetics_InRead_21s_sept2023.html",
+    "title": "sarantis kylie cosmetics 21s - sept 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/kylieCosmetics_inRead_1_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/sarantis/kylieCosmetics_InRead_10s_sept2023.html",
+    "title": "sarantis kylie cosmetics 10s - sept 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/disney_overlay_sept2023_alt.jpg",
     "href": "https://canvas.adweb.gr/demo/disney/overlay_Sept2023_alt.html",
     "title": "disney+ promo alt - september",
