@@ -1,4 +1,39 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/schweppes_footerExpand_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/3ecocacola/schweppes_footer1_sept2023.html",
+    "title": "schweppes lime mango - september 2023",
+    "platform": ["Footer Expand"],
+    "id": 9
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/schweppes_wallpaperCar_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/3ecocacola/schweppes_wallpaper_carousel_sept2023.html",
+    "title": "schweppes lime mango - september 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/alpro_inRead_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/alpro/inRead_sept2023.html",
+    "title": "alpro promo - september 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/suzuki_nextGen_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/suzuki/nextGen_sept2023.html",
+    "title": "suzuki vitara - september 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/paliria_nextGen_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/paliria/nextGen_sept2023.html",
+    "title": "paliria promo - september 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/heinz_3dCube_sept2023.jpg",
     "href": "https://canvas.adweb.gr/demo/heinz/3dCube_sept2023.html",
     "title": "kraft heinz burst - september 2023",
