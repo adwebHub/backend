@@ -1,4 +1,25 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/piraeus_custom_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/piraeus/overlayTimer_Sept2023.html",
+    "title": "piraeus project future - september 2023",
+    "platform": ["Custom Creative"],
+    "id": 4
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/piraeus_wallpaperCarousel_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/piraeus/wallpaperCarousel_sept2023.html",
+    "title": "piraeus project future - september 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/suzuki_headerVideo_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/suzuki/headerVideo_static_sept2023.html",
+    "title": "suzuki vitara - september 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/schweppes_footerExpand_sept2023.jpg",
     "href": "https://canvas.adweb.gr/demo/3ecocacola/schweppes_footer1_sept2023.html",
     "title": "schweppes lime mango - september 2023",
