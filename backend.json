@@ -1,4 +1,18 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/cosmote_header_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/cosmote/headeriVideo_sept2023.html",
+    "title": "cosmote whats up social impact - september 2023",
+    "platform": ["Header Responsive with Video"],
+    "id": 13
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/dove_videoOverlay_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/unilever/dove_videoOverlay_1_sept2023.html",
+    "title": "dove dune follow up - september 2023",
+    "platform": ["Video Overlay"],
+    "id": 25
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/melissa_nextGen_sept2023.jpg",
     "href": "https://canvas.adweb.gr/demo/melissa/nextGen_Sept2023.html",
     "title": "melissa promo - september 2023",
