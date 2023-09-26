@@ -1,4 +1,18 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/loki_nextGen_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/disney/inRead_Sept2023.html",
+    "title": "disney+ loki - september 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/klinex_nextGen_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/klinex/nextGen_sept2023.html",
+    "title": "klinex beach campaign - september 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/pepco_videoOverlay_sept2023.jpg",
     "href": "https://canvas.adweb.gr/demo/pepco/videoOverlay_2_sept2023.html",
     "title": "pepco p52 - september 2023",
