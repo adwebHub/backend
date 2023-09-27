@@ -1,6 +1,4 @@
-[
-
-  {
+[{
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/olympos_karpos_some_sept2023.jpg",
     "href": "https://preview.picnic-media.com/studio/320x480/7a5w/4974e7d2-500e-451b-959a-fb4f47a3728c",
     "title": "olympos karpos - september 2023",
@@ -1233,5 +1231,33 @@
     "title": "pernod ricard chivas extra 13",
     "platform": ["Inline Video"],
     "id": 15
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/heineken_demo.jpg",
+    "href": "https://canvas.adweb.gr/demo/custom/heineken_demo.html",
+    "title": "heineken demo",
+    "platform": ["Custom Creative"],
+    "id": 4
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/absolut_demo.jpg",
+    "href": "https://canvas.adweb.gr/demo/custom/absolut_demo.html",
+    "title": "absolut demo",
+    "platform": ["Custom Creative"],
+    "id": 4
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/alfa_demo.jpg",
+    "href": "https://canvas.adweb.gr/demo/custom/allatini_demo.html",
+    "title": "alfa demo",
+    "platform": ["Custom Creative"],
+    "id": 4
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/allatini_custom.jpg",
+    "href": "https://canvas.adweb.gr/demo/custom/allatini_demo.html",
+    "title": "allatini demo",
+    "platform": ["Custom Creative"],
+    "id": 4
   }
 ]
