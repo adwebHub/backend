@@ -1,4 +1,40 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/olympos_nextGen_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/olympos/nextGen_oct2023.html",
+    "title": "olympos kefir - october 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/drive_nextGen_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/drive/inRead_10s_sept2023.html",
+    "title": "drive campaign - october 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/condito_nextGen_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/condito/inRead_sept2023.html",
+    "title": "condito vegan mayo - september 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/piraeus_header_sept2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/piraeus/headerVideo_sept2023.html",
+    "title": "piraeus winbank - september 2023",
+    "platform": ["Header", "Video"],
+    "id": 11
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/malfy_nextGen_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/malfy/nextGen_sept2023.html",
+    "title": "malfy gin immagina - september 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/olympos_karpos_some_sept2023.jpg",
     "href": "https://preview.picnic-media.com/studio/320x480/7a5w/4974e7d2-500e-451b-959a-fb4f47a3728c",
     "title": "olympos karpos - september 2023",
