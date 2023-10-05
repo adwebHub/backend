@@ -385,6 +385,13 @@
     "id": 19
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/nymfi_story_jul2023.jpg",
+    "href": "https://preview.picnic-media.com/studio/320x480/7a5w/9505bf66-a70c-4c9c-b7ab-7172d292d001",
+    "title": "nymfi btl - july 2023",
+    "platform": ["SOME Stories"],
+    "id": 35
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/07/durex_july2023-1.jpg",
     "href": "https://cloud.cavai.com/creatives/iframe/431-3391-4709-26113/9d421d6fa6cbc30f8893350ad15358b6?w=300&h=600",
     "title": "reckitt summer campaign durex - july 2023",
@@ -1177,6 +1184,27 @@
     "id": 4
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/nrg_post_dec2022.jpg",
+    "href": "https://preview.picnic-media.com/studio/320x480/7a5w/0a576e31-7a48-47c4-8ebb-a3cf94895075",
+    "title": "nrg prime - december 2022",
+    "platform": ["SOME Posts"],
+    "id": 36
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/hpeiros_post_nov2022.jpg",
+    "href": "https://preview.picnic-media.com/studio/320x480/7a5w/48e312e3-4db3-4ccc-b7d3-3dc928980088",
+    "title": "hpeiros zemytha protein bars - november 2022",
+    "platform": ["SOME Posts"],
+    "id": 36
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/ck_post_nov2022.jpg",
+    "href": "https://preview.picnic-media.com/studio/320x480/7a5w/13b4d06d-5bb4-42f0-be75-b67740533d0c",
+    "title": "calvin klein culture shapers - november 2022",
+    "platform": ["SOME Posts"],
+    "id": 36
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/cosmote_conv_nov2022.png",
     "href": "https://cloud.cavai.com/creatives/iframe/431-3186-4284-23144/4097711abbb71d208ca7cb4a0cf539fa?w=300&h=600",
     "title": "cosmote payzy - november 2022",
@@ -1184,11 +1212,46 @@
     "id": 5
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/knauf_post_oct2022.jpg",
+    "href": "https://preview.picnic-media.com/studio/320x480/7a5w/24c2911d-6091-403e-a7f8-61556b1163cb",
+    "title": "knauf thermoprosopsis - october 2022",
+    "platform": ["SOME Posts"],
+    "id": 36
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/calvinklein_filmstrip_oct2022.png",
     "href": "https://canvas.adweb.gr/demo/calvinKlein/filmstrip_demo.html",
     "title": "calvin klein - october 2022",
     "platform": ["Filmstrip"],
     "id": 31
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/bosch_post_oct2022.jpg",
+    "href": "https://preview.picnic-media.com/studio/320x480/7a5w/8ac7e330-d57c-4764-be8e-ecc873486afb",
+    "title": "bosch pro power - october 2022",
+    "platform": ["SOME Posts"],
+    "id": 36
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/bosch_story_oct2022.jpg",
+    "href": "https://preview.picnic-media.com/studio/320x480/7a5w/35b94a7d-866f-40b4-b2f3-7f9863f0a979",
+    "title": "bosch pro power - october 2022",
+    "platform": ["SOME Stories"],
+    "id": 35
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/novartis_carousel_sept2022.jpg",
+    "href": "https://preview.picnic-media.com/studio/320x480/7a5w/2bccd055-85f2-441b-87f0-03a868a133b2",
+    "title": "novartis myeloinosi  - september 2022",
+    "platform": ["SOME Carousel"],
+    "id": 37
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/vikos_storyEmoji_sept2022.jpg",
+    "href": "https://preview.picnic-media.com/preview/320x480/2f9d3627-af9e-4bb8-b22d-86a5x10s8f38",
+    "title": "vikos anapsuktika - september 2022",
+    "platform": ["SOME Stories", "Emojies"],
+    "id": 35
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/masoutis_parallax_aug2022.jpg",
@@ -1239,6 +1302,14 @@
     "platform": ["Mobile Video Expandable (MOVEX)"],
     "id": 18
   },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/fg_story_jun2022.jpg",
+    "href": "https://preview.picnic-media.com/preview/320x480/949d2da1-0ced-42b4-befc-b4ac7c313db1",
+    "title": "feelgood thor love & thunder - july 2022",
+    "platform": ["SOME Stories", "Emojies"],
+    "id": 35
+  },
+
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/nuii_retube_apr2022.png",
     "href": "https://canvas.adweb.gr/demo/froneri/nuii_retube_apr2022.html",
