@@ -1,4 +1,11 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/pepco_vidOverlay_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/pepco/videoOverlay_oct2023.html",
+    "title": "pepco - october 2023",
+    "platform": ["Overlay", "Video"],
+    "id": 29
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/cosmote_parallaxVideo_oct2023.jpg",
     "href": "https://canvas.adweb.gr/demo/cosmote/parallaxVideo_oct2023.html",
     "title": "cosmote whats up social impact - october 2023",
