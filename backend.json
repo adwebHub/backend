@@ -1,4 +1,11 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/disney_loki_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/disney/loki_3Dbillboard_oct2023.html",
+    "title": "disney+ loki 3d - october 2023",
+    "platform": ["Custom Creative"],
+    "id": 4
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/olympos_nextGen_oct2023.jpg",
     "href": "https://canvas.adweb.gr/demo/olympos/nextGen_oct2023.html",
     "title": "olympos kefir - october 2023",
@@ -115,8 +122,8 @@
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/piraeus_custom_sept2023.jpg",
     "href": "https://canvas.adweb.gr/demo/piraeus/overlayTimer_Sept2023.html",
     "title": "piraeus project future - september 2023",
-    "platform": ["Custom Creative"],
-    "id": 4
+    "platform": ["Layered Overlay"],
+    "id": 2
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/piraeus_wallpaperCarousel_sept2023.jpg",
