@@ -1142,6 +1142,13 @@
     "id": 1
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/kenwood_apr2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/kenwood/magazine_apr2023.html",
+    "title": "kenwood titanium chef baker - april 2023",
+    "platform": ["Magazine"],
+    "id": 16
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/froneri_ws_apr2023.png",
     "href": "https://canvas.adweb.gr/demo/froneri/nuii_weboverSelector_Apr2023.html",
     "title": "froneri nuii - april 2023",
@@ -1168,6 +1175,13 @@
     "title": "wasa delikatess - february 2023",
     "platform": ["3D Cube"],
     "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/fg_book_feb2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/feelgood/antman_magazine_feb2023.html",
+    "title": "feelgood antman - february 2023",
+    "platform": ["Magazine"],
+    "id": 16
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/knorr_conv_feb2023.png",
@@ -1393,6 +1407,13 @@
     "title": "nissan innovation",
     "platform": ["In Banner Video"],
     "id": 14
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/ab_book.jpg",
+    "href": "https://canvas.adweb.gr/demo/ab/magazine_demo.html",
+    "title": "ab magazine demo",
+    "platform": ["Magazine"],
+    "id": 16
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/chivas_inLineVideo.png",
