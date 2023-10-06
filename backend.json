@@ -1,4 +1,32 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/trata_elies.jpg",
+    "href": "https://canvas.adweb.gr/demo/trata/inRead_elies_aoct2023.html",
+    "title": "trata elies - october 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/trata_gamos.jpg",
+    "href": "https://canvas.adweb.gr/demo/trata/inRead_gamos_oct2023.html",
+    "title": "trata gamos - october 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/trata_sauna.jpg",
+    "href": "https://canvas.adweb.gr/demo/trata/inRead_saouna_oct2023.html",
+    "title": "trata sauna - october 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/trata_auto.jpg",
+    "href": "https://canvas.adweb.gr/demo/trata/inRead_auto_oct2023.html",
+    "title": "trata auto - october 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/pepco_vidOverlay_oct2023.jpg",
     "href": "https://canvas.adweb.gr/demo/pepco/videoOverlay_oct2023.html",
     "title": "pepco P01 - october 2023",
