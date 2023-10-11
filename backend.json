@@ -1,4 +1,25 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/disney_clips_oct2023.jpg",
+    "href": "https://preview.picnic-media.com/studio/320x480/7a5w/a37bba7b-6382-42fe-bce7-dda5329c603e",
+    "title": "disney+ loki - october 2023",
+    "platform": ["SOME Clips"],
+    "id": 38
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/ikea_nextGen_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/ikea/nextGen_oct2023.html",
+    "title": "ikea new campaign - october 2023",
+    "platform": ["Next Gen Video"],
+    "id": 19
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/ikea_footer_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/ikea/footerVideo_oct2023.html",
+    "title": "ikea new campaign - october 2023",
+    "platform": ["Footer", "Video"],
+    "id": 9
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/vodafone_oct2023.jpg",
     "href": "https://canvas.adweb.gr/demo/vodafone/customWebover_oct2023.html",
     "title": "vodafone cu contest - october 2023",
