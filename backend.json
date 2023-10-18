@@ -1,4 +1,25 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/eurobank_header_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/eurobank/headerVideo_oct2023.html",
+    "title": "eurobank 2 xronia mprosta - october 2023",
+    "platform": ["Header", "Video"],
+    "id": 11
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/pepco_magazine_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/pepco/magazine_oct2023.html",
+    "title": "pepco p03 - october 2023",
+    "platform": ["Magazine"],
+    "id": 16
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/mastercard_movex_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/mastercard/movex_oct2023.html",
+    "title": "mastercard skroutz - october 2023",
+    "platform": ["Mobile Video Expandable (MOVEX)"],
+    "id": 18
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/ergo_22_oct23.jpg",
     "href": "https://canvas.adweb.gr/demo/ergo/nextGen_oct2023_2.html",
     "title": "ergo my home 26' - october 2023",
@@ -85,7 +106,7 @@
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/pepco_vidOverlay_oct2023.jpg",
     "href": "https://canvas.adweb.gr/demo/pepco/videoOverlay_oct2023.html",
-    "title": "pepco P01 - october 2023",
+    "title": "pepco p01 - october 2023",
     "platform": ["Overlay", "Video"],
     "id": 29
   },
