@@ -62,6 +62,27 @@
     "id": 7
   },
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/cocacola_scratch_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/3ecocacola/cocacola_scratch_oct2023.html",
+    "title": "coca cola zero - october 2023",
+    "platform": ["Interstitial Scratch"],
+    "id": 17
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/cocacola_filmstrip_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/3ecocacola/cocacola_filmstrip_oct2023.html",
+    "title": "coca cola zero - october 2023",
+    "platform": ["Filmstrip"],
+    "id": 31
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/cocacola_videoBG_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/3ecocacola/cocacola_videoBG_oct2023.html",
+    "title": "coca cola zero - october 2023",
+    "platform": ["Overlay", "Video", "Background"],
+    "id": 29
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/caldaEnergy_overlay_oct2023.jpg",
     "href": "https://canvas.adweb.gr/demo/caldaEnergy/caldaEnergy_15s_oct2023.html",
     "title": "calda energy 15s - october 2023",
@@ -429,7 +450,7 @@
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/sprite_overlay_sept2023.jpg",
     "href": "https://canvas.adweb.gr/demo/3ecocacola/sprite_videoOverlay_Sept2023.html",
     "title": "sprite promo - september 2023",
-    "platform": ["Overlay", "Video"],
+    "platform": ["Overlay", "Video", "Background"],
     "id": 29
   },
   {
