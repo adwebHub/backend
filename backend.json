@@ -1,4 +1,32 @@
 [{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/korres_wallpaperCarousel_1_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/korres/wallpaperCarousel_2_oct2023.html",
+    "title": "korres black pine wallpaper carousel 2 - september 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/korres_wallpaperCarousel_2_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/korres/wallpaperCarousel_1_oct2023%20.html",
+    "title": "korres black pine wallpaper carousel 1 - september 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/korres_selector_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/korres/korres_selector_oct2023%20.html",
+    "title": "korres black pine selector - august 2023",
+    "platform": ["Webover Selector"],
+    "id": 28
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/nounou_parallax_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/frieslandCampina/nounou_parallax_oct2023.html",
+    "title": "nounou family carbon neutral - october 2023",
+    "platform": ["Parallax"],
+    "id": 7
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/bosch_journey_oct2023.jpg",
     "href": "https://canvas.adweb.gr/demo/bosch/journey_oct2023.html",
     "title": "bosch unlimited 7 journey - october 2023",
