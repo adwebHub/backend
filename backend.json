@@ -1,4 +1,41 @@
-[{
+[
+
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/hertz_wallpaperCarousel_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/hertz/wallpaperCarousel_nov2023.html",
+    "title": "hertz leasing 2nd burst - november 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/tesori_inRead_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/sarantis/tesori_inread_oct2023.html",
+    "title": "sarantis tesori in read - october 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/ava_slider_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/sarantis/ava_slider_oct2023.html",
+    "title": "sarantis ava slider 300x600 - october 2023",
+    "platform": ["Slider"],
+    "id": 24
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/ava_inread_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/sarantis/ava_inRead_oct2023.html",
+    "title": "sarantis ava in read - october 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/ava_parallax_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/sarantis/ava_parallaxVideo_oct2023.html",
+    "title": "sarantis ava parallax - october 2023",
+    "platform": ["Parallax", "Video"],
+    "id": 7
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/korres_wallpaperCarousel_1_oct2023.jpg",
     "href": "https://canvas.adweb.gr/demo/korres/wallpaperCarousel_2_oct2023.html",
     "title": "korres black pine wallpaper carousel 2 - september 2023",
