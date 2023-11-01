@@ -1,16 +1,14 @@
-[
-
-  {
-    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/systenium_wallpaperCarousel_oct2023.jpg",
-    "href": "https://canvas.adweb.gr/demo/systenium/wallpaperCarousel_oct2023.html",
-    "title": "systenium plus - october 2023",
+[{
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/hertz_wallpaperCarousel_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/hertz/wallpaperCarousel_nov2023.html",
+    "title": "hertz leasing 2nd burst - november 2023",
     "platform": ["Wallpaper Video Carousel"],
     "id": 26
   },
   {
-    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/hertz_wallpaperCarousel_oct2023.jpg",
-    "href": "https://canvas.adweb.gr/demo/hertz/wallpaperCarousel_nov2023.html",
-    "title": "hertz leasing 2nd burst - november 2023",
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/vodafone_wallpaperCarousel_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/vodafone/wallpaperCarousel_oct2023.html",
+    "title": "vodafone vtv awarded series - october 2023",
     "platform": ["Wallpaper Video Carousel"],
     "id": 26
   },
@@ -27,6 +25,13 @@
     "title": "sarantis ava slider 300x600 - october 2023",
     "platform": ["Slider"],
     "id": 24
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/systenium_wallpaperCarousel_oct2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/systenium/wallpaperCarousel_oct2023.html",
+    "title": "systenium plus - october 2023",
+    "platform": ["Wallpaper Video Carousel"],
+    "id": 26
   },
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/ava_inread_oct2023.jpg",
