@@ -1,4 +1,12 @@
-[{
+[
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/mastercard_parallax_nov2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/mastercard/parallaxVideo_Nov2023.html",
+    "title": "mastercard around the table - november 2023",
+    "platform": ["Parallax", "Video"],
+    "id": 7
+  },
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/hertz_wallpaperCarousel_oct2023.jpg",
     "href": "https://canvas.adweb.gr/demo/hertz/wallpaperCarousel_nov2023.html",
     "title": "hertz leasing 2nd burst - november 2023",
