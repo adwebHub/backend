@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/eurobank_headerVideo_nov2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/eurobank/headerVideo_Nov2023.html",
+    "title": "eurobank 360 mastercard usage - november 2023",
+    "platform": ["Header", "Video"],
+    "id": 11
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/mikel_cube300x600_nov2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/mikel/cube_300x600_Nov2023.html",
+    "title": "mikel cube 300x600 fall - september 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/mikel_cube300x250_nov2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/mikel/cube_300x250_Nov2023.html",
+    "title": "mikel cube 300x250 fall - november 2023",
+    "platform": ["3D Cube"],
+    "id": 1
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/d_journey_nov2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/disney/journey_nov2023.html",
+    "title": "disney+ value campaign journey - november 2023",
+    "platform": ["Custom Creative", "Journey"],
+    "id": 4
+  },
+  {
+    "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/orzene_inRead_nov2023.jpg",
+    "href": "https://canvas.adweb.gr/demo/sarantis/orzene_InRead_Nov2023.html",
+    "title": "sarantis orzene - november 2023",
+    "platform": ["In Read Video"],
+    "id": 32
+  },
+
+  {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/mastercard_parallax_nov2023.jpg",
     "href": "https://canvas.adweb.gr/demo/mastercard/parallaxVideo_Nov2023.html",
     "title": "mastercard around the table - november 2023",
@@ -20,7 +56,6 @@
     "platform": ["In Read Video"],
     "id": 32
   },
-
   {
     "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/boxnow_wallpaperCarousel_oct2023.jpg",
     "href": "https://canvas.adweb.gr/demo/boxnow/wallpaperCarousel_oct2023.html",
