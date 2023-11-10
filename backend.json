@@ -1,4 +1,11 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/skip_InRead_Nov2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/skip/InRead_Nov2023.html",
+        "title": "skpi gaia - november 2023",
+        "platform": ["In Read Video"],
+        "id": 32
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/parano_header_nov2023.jpg",
         "href": "https://canvas.adweb.gr/demo/frieslandCampina/parrano_header_Nov2023.html",
         "title": "friesland campina parrano - november 2023",
@@ -75,7 +82,6 @@
         "platform": ["In Read Video"],
         "id": 32
     },
-
     {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/mastercard_parallax_nov2023.jpg",
         "href": "https://canvas.adweb.gr/demo/mastercard/parallaxVideo_Nov2023.html",
