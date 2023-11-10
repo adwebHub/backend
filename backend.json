@@ -1,4 +1,18 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/schweppes_footerExpand_nov2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/3ecocacola/schweppes_footerExpand_Nov2023.html",
+        "title": "schweppes festive campaign - november 2023",
+        "platform": ["Footer", "Expand"],
+        "id": 9
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/schweppes_headerVideo_Nov2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/3ecocacola/schweppes_headerVideo_Nov203.html",
+        "title": "schweppes festive campaign - november 2023",
+        "platform": ["Header", "Display"],
+        "id": 11
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/skip_InRead_Nov2023.jpg",
         "href": "https://canvas.adweb.gr/demo/skip/InRead_Nov2023.html",
         "title": "skpi gaia - november 2023",
@@ -124,7 +138,6 @@
         "platform": ["Footer", "Expand"],
         "id": 9
     },
-
     {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/vodafone_wallpaperCarousel_oct2023.jpg",
         "href": "https://canvas.adweb.gr/demo/vodafone/wallpaperCarousel_oct2023.html",
