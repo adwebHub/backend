@@ -1,4 +1,18 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/riverwest_3dCube_nov2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/riverwest/300x600_Cube_Nov23.html",
+        "title": "river west cube 300x600 black friday - nov 2023",
+        "platform": ["3D Cube"],
+        "id": 1
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/riverwest_some_story_nov2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/riverwest/some_story_nov2023.html",
+        "title": "river west black friday - nov 2023",
+        "platform": ["SOME Stories"],
+        "id": 35
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/10/disney_loki_2_oct2023.jpg",
         "href": "https://canvas.adweb.gr/demo/germanos/takeover_Nov2023.html",
         "title": "germanos eurobank - november 2023",
