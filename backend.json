@@ -1,4 +1,18 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/klinex_wallpaperCarousel_nov2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/klinex/wallpaperCarousel_nov2023.html",
+        "title": "klinex sprays - november 2023",
+        "platform": ["Wallpaper Video Carousel"],
+        "id": 26
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/fischer_timer_nov2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/fischer/headerTimer_nov2023.html",
+        "title": "fischer aiff campaign - november 2023",
+        "platform": ["Countdown Timer"],
+        "id": 12
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/dimello_filtrou_nov2023.jpg",
         "href": "https://canvas.adweb.gr/demo/dimello/inread_filtrou_nov2023.html",
         "title": "dimello filtrou - november 2023",
