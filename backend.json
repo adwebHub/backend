@@ -1,4 +1,18 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/dimello_filtrou_nov2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/dimello/inread_filtrou_nov2023.html",
+        "title": "dimello filtrou - november 2023",
+        "platform": ["In Read Video"],
+        "id": 32
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/dimello_kapsoules_nov2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/dimello/wallpaper_carousel_kapsoules_nov2023.html",
+        "title": "dimello kapsoules - november 2023",
+        "platform": ["Wallpaper Video Carousel"],
+        "id": 26
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/riverwest_3dCube_nov2023.jpg",
         "href": "https://canvas.adweb.gr/demo/riverwest/300x600_Cube_Nov23.html",
         "title": "river west cube 300x600 black friday - nov 2023",
