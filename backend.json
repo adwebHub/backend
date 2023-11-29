@@ -1,4 +1,32 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/riverwest_overlay_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/riverwest/overlay_dec2023.html",
+        "title": "river west overlay christmas events - december 2023",
+        "platform": ["Overlay", "Display"],
+        "id": 29
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/riverwest_3dCube_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/riverwest/3d_cube_300x600_dec2023.html",
+        "title": "river west cube 300x600 christmas events - december 2023",
+        "platform": ["3D Cube"],
+        "id": 1
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/sarantis_bioten_parallax_nov2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/sarantis/bioten_parallaxVideo_nov2023.html",
+        "title": "sarantis bioten hydro xcell - november 2023",
+        "platform": ["Parallax", "Video"],
+        "id": 7
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/aromca_guess_nov2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/aromca/guess_wallpaperCarousel_nov2023.html",
+        "title": "aromca guess bella vita - november 2023",
+        "platform": ["Wallpaper Video Carousel"],
+        "id": 26
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/cinobo_nov2023.jpg",
         "href": "https://canvas.adweb.gr/demo/cinobo/videoOverlay_nov2023.html",
         "title": "cinobo - november 2023",
@@ -50,14 +78,14 @@
     {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/riverwest_3dCube_nov2023.jpg",
         "href": "https://canvas.adweb.gr/demo/riverwest/300x600_Cube_Nov23.html",
-        "title": "river west cube 300x600 black friday - nov 2023",
+        "title": "river west cube 300x600 black friday - november 2023",
         "platform": ["3D Cube"],
         "id": 1
     },
     {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/riverwest_some_story_nov2023.jpg",
         "href": "https://canvas.adweb.gr/demo/riverwest/some_story_nov2023.html",
-        "title": "river west black friday - nov 2023",
+        "title": "river west black friday - november 2023",
         "platform": ["SOME Stories"],
         "id": 35
     },
