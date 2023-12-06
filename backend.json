@@ -1,4 +1,25 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/mitsubishi_overlayVideo_Dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/mitsubishi/videoOverlay_dec2023.html",
+        "title": "mitsubishi electric air conditioning - december 2023",
+        "platform": ["Overlay", "Video"],
+        "id": 29
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/mastercard_scratch_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/mastercard/scratch_dec2023.html",
+        "title": "mastercard antifraud campaign - scratch december 2023",
+        "platform": ["Interstitial Scratch"],
+        "id": 17
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/mitsubishi_wallpaperCarousel_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/mitsubishi/wallpaperCarousel_dec2023.html",
+        "title": "mitsubishi electric air conditioning - december 2023",
+        "platform": ["Wallpaper Video Carousel"],
+        "id": 26
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/riverwest_overlay_dec2023.jpg",
         "href": "https://canvas.adweb.gr/demo/riverwest/overlay_dec2023.html",
         "title": "river west overlay christmas events - december 2023",
