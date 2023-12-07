@@ -1,4 +1,25 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/riverwest_filmstrip_xmas.jpg",
+        "href": "https://canvas.adweb.gr/demo/riverwest/filmstrip_xmas_sales_dec2023.html",
+        "title": "river west filmstrip christmas sales - december 2023",
+        "platform": ["Filmstrip"],
+        "id": 31
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/riverwest_3dcube_xmas.jpg",
+        "href": "https://canvas.adweb.gr/demo/riverwest/3d_cube_xmas_sales_dec2023.html",
+        "title": "river west cube 300x600 christmas sales - december 2023",
+        "platform": ["3D Cube"],
+        "id": 1
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/cosmote_header_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/cosmote/headerVideo_dec2023.html",
+        "title": "cosmote business 360 - december 2023",
+        "platform": ["Header", "Video"],
+        "id": 11
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/mitsubishi_overlayVideo_Dec2023.jpg",
         "href": "https://canvas.adweb.gr/demo/mitsubishi/videoOverlay_dec2023.html",
         "title": "mitsubishi electric air conditioning - december 2023",
