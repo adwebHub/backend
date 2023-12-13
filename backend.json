@@ -1,4 +1,32 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/piraeusFooter_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/piraeus/footerVideo_dec2023.html",
+        "title": "piraeus bnpl camapign christmas - december 2023",
+        "platform": ["Footer", "Video"],
+        "id": 9
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/aia_carousel_dec2023.jpg",
+        "href": "https://preview.picnic-media.com/studio/320x480/7a5w/9275b340-1277-4985-9c58-b2d4ab1218d8",
+        "title": "aia euphoria launch - december 2023",
+        "platform": ["SOME Carousel"],
+        "id": 37
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/aia_post_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/AIA/euphoria_some_post_dec2023.html",
+        "title": "aia euphoria launch - december 2023",
+        "platform": ["SOME Posts"],
+        "id": 36
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/elektronet_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/electronet/overlay_dec2023.html",
+        "title": "electronet younef - december 2023",
+        "platform": ["Overlay", "Display"],
+        "id": 29
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/mastercard_conv_dec2023.jpg",
         "href": "https://cloud.cavai.com/creatives/iframe/431-3408-4765-26255/f02f718a4a99dbaa3245a4cdae53e6f2?w=300&h=600",
         "title": "mastercard antifraud campaign conversational - december 2023",
