@@ -1,4 +1,32 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/durex_puzzle_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/durex/puzzleOverlay_dec2023.html",
+        "title": "durex christmas - december 2023",
+        "platform": ["Overlay", "Video", "Puzzle"],
+        "id": 29
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/durex_header_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/durex/headerVideo_dec2023.html",
+        "title": "durex christmas - december 2023",
+        "platform": ["Header", "Video"],
+        "id": 11
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/durex_nextgen_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/durex/nextGen_dec2023.html",
+        "title": "durex christmas - december 2023",
+        "platform": ["Next Gen Video"],
+        "id": 32
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/eurobank_wallpaperCarousel_dec2023.jpg",
+        "href": "https://canvas.adweb.gr/demo/eurobank/wallpaperCarousel_dec2023.html",
+        "title": "eurobank xmas epistrofi - december 2023",
+        "platform": ["Wallpaper Video Carousel"],
+        "id": 26
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/electronet_footer.jpg",
         "href": "https://canvas.adweb.gr/demo/electronet/footer_dec2023.html",
         "title": "electronet younef - december 2023",
@@ -9,7 +37,7 @@
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/vikos_dec2023.jpg",
         "href": "https://canvas.adweb.gr/demo/vikos/cola_inread_dec2023.html",
         "title": "vikos cola 1 + 1 - december 2023",
-        "platform": ["In Read Video"],
+        "platform": ["Next Gen Video"],
         "id": 32
     },
     {
