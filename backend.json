@@ -1,4 +1,11 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/electronet_footer.jpg",
+        "href": "https://canvas.adweb.gr/demo/electronet/footer_dec2023.html",
+        "title": "electronet younef - december 2023",
+        "platform": ["Footer", "Static"],
+        "id": 9
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/vikos_dec2023.jpg",
         "href": "https://canvas.adweb.gr/demo/vikos/cola_inread_dec2023.html",
         "title": "vikos cola 1 + 1 - december 2023",
@@ -30,7 +37,7 @@
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/elektronet_dec2023.jpg",
         "href": "https://canvas.adweb.gr/demo/electronet/overlay_dec2023.html",
         "title": "electronet younef - december 2023",
-        "platform": ["Overlay", "Display"],
+        "platform": ["Overlay", "Static"],
         "id": 29
     },
     {
@@ -86,7 +93,7 @@
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/riverwest_overlay_dec2023.jpg",
         "href": "https://canvas.adweb.gr/demo/riverwest/overlay_dec2023.html",
         "title": "river west overlay christmas events - december 2023",
-        "platform": ["Overlay", "Display"],
+        "platform": ["Overlay", "Static"],
         "id": 29
     },
     {
@@ -205,7 +212,7 @@
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/schweppes_headerVideo_Nov2023.jpg",
         "href": "https://canvas.adweb.gr/demo/3ecocacola/schweppes_headerVideo_Nov203.html",
         "title": "schweppes festive campaign - november 2023",
-        "platform": ["Header", "Display"],
+        "platform": ["Header", "Static"],
         "id": 11
     },
     {
@@ -219,7 +226,7 @@
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/11/parano_header_nov2023.jpg",
         "href": "https://canvas.adweb.gr/demo/frieslandCampina/parrano_header_Nov2023.html",
         "title": "friesland campina parrano - november 2023",
-        "platform": ["Header", "Display"],
+        "platform": ["Header", "Static"],
         "id": 11
     },
     {
@@ -849,14 +856,14 @@
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/disney_overlay_sept2023_alt.jpg",
         "href": "https://canvas.adweb.gr/demo/disney/overlay_Sept2023_alt.html",
         "title": "disney+ promo alt - september",
-        "platform": ["Overlay", "Display"],
+        "platform": ["Overlay", "Static"],
         "id": 29
     },
     {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/disney_poverlay_sept2023.jpg",
         "href": "https://canvas.adweb.gr/demo/disney/overlay_Sept2023.html",
         "title": "disney+ promo - september 2023",
-        "platform": ["Overlay", "Display"],
+        "platform": ["Overlay", "Static"],
         "id": 29
     },
     {
@@ -877,14 +884,14 @@
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/eurobank_header_sept2023.jpg",
         "href": "https://canvas.adweb.gr/demo/eurobank/header_2_sept2023.html",
         "title": "eurobank x masoutis 2 - september 2023",
-        "platform": ["Header", "Display"],
+        "platform": ["Header", "Static"],
         "id": 11
     },
     {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/09/eurobank_header_2_sept2023.jpg",
         "href": "https://canvas.adweb.gr/demo/eurobank/header_1_sept2023.html",
         "title": "eurobank x masoutis 1 - september 2023",
-        "platform": ["Header", "Display"],
+        "platform": ["Header", "Static"],
         "id": 11
     },
     {
@@ -1417,7 +1424,7 @@
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/barathome_overlay_june2023.png",
         "href": "https://canvas.adweb.gr/demo/barathome/overlay_june2023.html",
         "title": "barathome - june 2023",
-        "platform": ["Overlay", "Display"],
+        "platform": ["Overlay", "Static"],
         "id": 29
     },
     {
@@ -1739,7 +1746,7 @@
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/davrados_header_feb2023.png",
         "href": "https://canvas.adweb.gr/demo/davrados/header_feb2023.html",
         "title": "davrados group general - february 2023",
-        "platform": ["Header", "Display"],
+        "platform": ["Header", "Static"],
         "id": 11
     },
     {
