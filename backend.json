@@ -1,7 +1,21 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/01/designerOutlet_jan2024jpg.jpg",
+        "href": "https://canvas.adweb.gr/demo/designer_outlet/3d_cube_jan2024.html",
+        "title": "designer outlet - january 2024",
+        "platform": ["3D Cube"],
+        "id": 1
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/01/antenna_ws_january2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/ant1/weboverSelector_jan2024.html",
+        "title": "ant1 dragons den - january 2024",
+        "platform": ["Webover Selector"],
+        "id": 28
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2024/01/eurobank_header_jan2024.jpg",
         "href": "https://canvas.adweb.gr/demo/eurobank/header_jan2024.html",
-        "title": "eurobank mastercard priceless planet coalition - november 2023",
+        "title": "eurobank mastercard priceless planet coalition - january 2024",
         "platform": ["Header", "Static"],
         "id": 11
     },
