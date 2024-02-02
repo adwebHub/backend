@@ -2085,7 +2085,7 @@
         "href": "https://canvas.adweb.gr/demo/lechuza/cExpandable_march2022.html",
         "title": "lechuza playmobil - march 2022",
         "platform": ["Carousel Expandable"],
-        "id": 6
+        "id": 99
     },
     {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/intersport_sidekick_jan2022.png",
@@ -2120,7 +2120,7 @@
         "href": "https://canvas.adweb.gr/demo/vodafone/carouselExpandable_june2021.html",
         "title": "vodafone secure net family - june 2021",
         "platform": ["Carousel Expandable"],
-        "id": 6
+        "id": 99
     },
     {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/schweppes_conv_feb2021.jpg",
@@ -2141,14 +2141,14 @@
         "href": "https://canvas.adweb.gr/demo/ab/cExpandable_sept2020.html",
         "title": "ab neoflam - september 2020",
         "platform": ["Carousel Expandable"],
-        "id": 6
+        "id": 99
     },
     {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/ab_auraAshley.jpg",
         "href": "https://canvas.adweb.gr/demo/ab/floorAd.html",
         "title": "ab vasilopoulos laura ashley",
         "platform": ["Floor Ad"],
-        "id": 8
+        "id": 6
     },
     {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/06/nissan_inBannerVideo.png",
