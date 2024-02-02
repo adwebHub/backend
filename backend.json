@@ -1,4 +1,26 @@
 [{
+        "url": "https: //canvas.adweb.gr/wp-content/uploads/2024/02/durex_selector_feb2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/durex/selector_feb2024.html",
+        "title": "durex vday - february 2024",
+        "platform": ["Webover Selector"],
+        "id": 28
+    },
+    {
+        "url": " https://canvas.adweb.gr/wp-content/uploads/2024/02/eurobank_visa_floorad_jan2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/eurobank/visa_floorAd_jan2024.html",
+        "title": "eurobank visa credit cards x disney - january 2024",
+        "platform": ["Floor Ad"],
+        "id": 6
+    },
+
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/eurobank_visa_header_jan2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/eurobank/visa_header_jan2024.html",
+        "title": "eurobank visa credit cards x disney - january 2024",
+        "platform": ["Header", "Video"],
+        "id": 11
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2024/01/eurobank_headervid_jan2024-1.jpg",
         "href": "https://canvas.adweb.gr/demo/eurobank/headerVideo_jan2024.html",
         "title": "eurobank mprosta gia thn paideia - january 2024",
@@ -142,8 +164,8 @@
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/electronet_footer.jpg",
         "href": "https://canvas.adweb.gr/demo/electronet/footer_dec2023.html",
         "title": "electronet younef - december 2023",
-        "platform": ["Footer", "Static"],
-        "id": 9
+        "platform": ["Floor Ad"],
+        "id": 6
     },
     {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2023/12/vikos_dec2023.jpg",
