@@ -1,4 +1,32 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/karoulias_metaxa_post_feb2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/karoulias/metaxa_somepost_feb2024.html",
+        "title": "karoulias / metaxa valentina contest - february 2024",
+        "platform": ["SOME Posts"],
+        "id": 36
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/karoulias_metaxa_story3_feb2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/karoulias/metaxa_somestory_3_feb2024.html",
+        "title": "karoulias / metaxa sweet valentine - february 2024",
+        "platform": ["SOME Stories"],
+        "id": 35
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/karoulias_metaxa_story2_feb2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/karoulias/metaxa_somestory_2_feb2024.html",
+        "title": "karoulias / metaxa skiing - february 2024",
+        "platform": ["SOME Stories"],
+        "id": 35
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/karoulias_metaxa_story1_feb2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/karoulias/metaxa_somestory_feb2024.html",
+        "title": "karoulias / metaxa tiramisu - february 2024",
+        "platform": ["SOME Stories"],
+        "id": 35
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/durex_selector_feb2024.jpg",
         "href": "https://canvas.adweb.gr/demo/durex/selector_feb2024.html",
         "title": "durex vday - february 2024",
