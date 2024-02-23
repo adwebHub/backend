@@ -1,4 +1,53 @@
 [{
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/hertz_wallpaperCarousel_nov2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/hertz/wallpaperCarousel_feb2024.html",
+        "title": "hertz flex drive - february 2024",
+        "platform": ["Wallpaper Video Carousel"],
+        "id": 26
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/durex_selector_2_feb2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/durex/selector_plug_feb2024.html",
+        "title": "durex bucheron - february 2024",
+        "platform": ["Webover Selector", "Video"],
+        "id": 28
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/aim_footer_feb2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/AIM/aim_footer_feb2024.html",
+        "title": "aim white now - february 2024",
+        "platform": ["Footer", "Interactive", "Video"],
+        "id": 9
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/olympos_somestory_feb2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/olympos/some_story_feb2024.html",
+        "title": "olympos always on - february 2024",
+        "platform": ["SOME Stories"],
+        "id": 35
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/frezyderm_interactiveFooter_Feb2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/frezyderm/interactiveFooter_feb2024.html",
+        "title": "frezyderm ac-norm - february 2024",
+        "platform": ["Footer", "Interactive", "Video"],
+        "id": 9
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/barilla_somepost_feb2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/barilla/somepost_feb2024.html",
+        "title": "barilla st. valentines contest - february 2024",
+        "platform": ["SOME Posts"],
+        "id": 36
+    },
+    {
+        "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/cocacola_pizzaDay_feb2024.jpg",
+        "href": "https://canvas.adweb.gr/demo/3ecocacola/CocaCola_PizzaDay_feb2024.html",
+        "title": "coca cola project pizza - february 2024",
+        "platform": ["Custom Creative"],
+        "id": 4
+    },
+    {
         "url": "https://canvas.adweb.gr/wp-content/uploads/2024/02/karoulias_metaxa_post_feb2024.jpg",
         "href": "https://canvas.adweb.gr/demo/karoulias/metaxa_somepost_feb2024.html",
         "title": "karoulias / metaxa valentina contest - february 2024",
